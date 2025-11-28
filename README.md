@@ -13,8 +13,10 @@ Bilgisayar Mühendisliği Öğrencisi | Siber Güvenlik | Yapay Zeka | Backend G
 ⚙️ Kullandığım Teknolojiler
 💻 Programlama Dilleri
 <img src="https://skillicons.dev/icons?i=cpp,cs,java,python" />
+
 🛠️ Backend & Tools
 <img src="https://skillicons.dev/icons?i=docker,linux,git,github,vscode" />
+
 🐧 İşletim Sistemleri
 <img src="https://skillicons.dev/icons?i=ubuntu,kali,windows" />
 ---
