@@ -1,6 +1,6 @@
 # 👋 Merhaba, ben Erkan
 
-Bilgisayar Mühendisliği Öğrencisi | Siber Güvenlik | Yapay Zeka | Backend Geliştirme
+Bilgisayar Mühendisliği Öğrencisi | Siber Güvenlik | BT Destek
 
 ---
 
