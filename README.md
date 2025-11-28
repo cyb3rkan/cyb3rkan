@@ -5,9 +5,8 @@ Bilgisayar Mühendisliği Öğrencisi | Siber Güvenlik | BT Destek
 ---
 
 ## 🚀 Hakkımda
-- İlgi alanlarım: Siber Güvenlik, Red Team, Yapay Zeka, Backend, Kriptografi  
-- Şu anda öğreniyorum: Python, C#, C++, Offensive Security Tools  
-- Hedefim: Güvenlik odaklı yazılımlar ve yapay zeka tabanlı güvenlik araçları geliştirmek
+- İlgi alanlarım: Siber Güvenlik, Red Team, Blue Team
+- Şu anda öğreniyorum: Python, C#, C++, Offensive Security Tools, Defensive Security Tools 
 
 ---
 ⚙️ Kullandığım Teknolojiler
