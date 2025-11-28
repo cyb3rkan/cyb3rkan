@@ -12,8 +12,10 @@ jobs:
       - uses: Platane/snk@v3
         with:
           github_user_name: cyb3rkan
-          outputs: dist/github-contribution-grid-snake.svg
-      - uses: crazy-max/ghaction-github-pages@v3
+          outputs: dist/snake.svg
+
+      - name: Push Snake to Output Branch
+        uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
           build_dir: dist
