@@ -1,16 +1,37 @@
-## Hi there 👋
+# 👋 Merhaba, ben Erkan
 
-<!--
-**cyb3rkan/cyb3rkan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bilgisayar Mühendisliği Öğrencisi | Siber Güvenlik | Yapay Zeka | Backend Geliştirme
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Hakkımda
+- İlgi alanlarım: Siber Güvenlik, Red Team, Yapay Zeka, Backend, Kriptografi  
+- Şu anda öğreniyorum: Python, C#, C++, Offensive Security Tools  
+- Hedefim: Güvenlik odaklı yazılımlar ve yapay zeka tabanlı güvenlik araçları geliştirmek
+
+---
+
+## 🛠️ Kullandığım Teknolojiler
+<p>
+  <img src="https://skillicons.dev/icons?i=cs,java,cpp,python,html,css,js,react" />
+  <img src="https://skillicons.dev/icons?i=kali,linux,docker" />
+</p>
+
+---
+
+## 📊 GitHub İstatistiklerim
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=cyb3rkan&show_icons=true&theme=radical" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyb3rkan&layout=compact&theme=radical" height="160"/>
+</p>
+
+---
+
+## 🐍 Katkı Yılanı (Contribution Snake)
+![snake gif](https://github.com/cyb3rkan/cyb3rkan/blob/output/github-contribution-grid-snake.gif)
+
+---
+
+## 📫 Bana ulaş
+- Mail: **seninmailin@gmail.com**
+- LinkedIn: **https://linkedin.com/in/senin-linkedin**
