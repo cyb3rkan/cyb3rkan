@@ -19,5 +19,5 @@ Bilgisayar Mühendisliği Öğrencisi | Siber Güvenlik | Yapay Zeka | Backend G
 ---
 
 ## 📫 Bana ulaş
-- Mail: **seninmailin@gmail.com**
-- LinkedIn: **https://linkedin.com/in/senin-linkedin**
+- Mail: sahinerkan2312@gmail.com
+- LinkedIn: https://www.linkedin.com/in/erkansahin23/
