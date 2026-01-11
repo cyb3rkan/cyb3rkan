@@ -72,7 +72,7 @@ me = Cyber Security Enthusiast()
 
 | Proje | Açıklama | Durum |
 |-------|----------|-------|
-| 🔍 [IOC Enricher Agent](https://github.com/cyb3rkan/ioc-enricher-agent) | Otomatik IOC zenginleştirme ve tehdit analizi | ![Status](https://img.shields.io/badge/Status-In_Progress-yellow?style=flat-square) |
+| 🔍 [IOC Enricher Agent](https://github.com/cyb3rkan/ioc-enricher-agent) | Otomatik IOC zenginleştirme ve tehdit analizi | ![Status](https://img.shields.io/badge/Status-Planning-blue?style=flat-square) |
 | 📊 [Log Analyzer AI](https://github.com/cyb3rkan/log-analyzer-ai) | AI destekli log analizi ve anomali tespiti | ![Status](https://img.shields.io/badge/Status-Planning-blue?style=flat-square) |
 | 🕵️ [OSINT Profiler](https://github.com/cyb3rkan/osint-profiler) | OSINT veri toplama ve profil analizi | ![Status](https://img.shields.io/badge/Status-Planning-blue?style=flat-square) |
 
