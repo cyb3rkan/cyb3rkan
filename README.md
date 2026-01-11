@@ -37,7 +37,7 @@ class CyberSecurityEngineer:
             "🤝 Açık kaynaklı güvenlik projelerine katkıda bulunmak"
         ]
 
-me = Cyber Security Enthusiast()
+me = CyberSecurityEnthusiast()
 ```
 
 ---
