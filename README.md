@@ -7,8 +7,6 @@
   <br>
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erkansahin23/)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sahinerkan2312@gmail.com)
-  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cyb3rkan)
 
 </div>
 
@@ -93,42 +91,12 @@ me = CyberSecurityEngineer()
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=cyb3rkan&show_icons=true&count_private=true&hide_border=true&title_color=00D9FF&icon_color=00D9FF&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyb3rkan&layout=compact&hide_border=true&title_color=00D9FF&text_color=c9d1d9&bg_color=0d1117" alt="Top Languages" />
-
-</div>
-
-<div align="center">
-  
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=cyb3rkan&theme=tokyonight&hide_border=true&stroke=0000&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF)
-
-</div>
-
----
-
-## 🏆 Certifications & Goals
-
-```
-📜 Sertifikalar & Hedefler
-├── 🔒 CompTIA Security+ (Hedef: 2025)
-├── 🔐 eJPT - eLearnSecurity Junior Penetration Tester (Hedef)
-├── 🛡️ CEH - Certified Ethical Hacker (Hedef)
-└── 🎯 OSCP - Offensive Security Certified Professional (Uzun vadeli)
-```
-
----
-
 ## 📫 İletişim
 
 <div align="center">
 
 💼 İş birliği ve projeler için benimle iletişime geçebilirsiniz!
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sahinerkan2312@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erkansahin23/)
 
 </div>
@@ -144,11 +112,3 @@ me = CyberSecurityEngineer()
 </div>
 
 ---
-
-<div align="center">
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=cyb3rkan&color=00D9FF&style=for-the-badge&label=PROFILE+VIEWS)
-  
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
-
-</div>
