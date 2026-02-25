@@ -1,31 +1,30 @@
 <div align="center">
+  <!-- Animated Header Banner -->
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d9ff,100:0d1117&height=200&section=header&text=Erkan%20ŞAHİN&fontSize=60&fontColor=00d9ff&fontAlignY=38&animation=fadeIn&desc=Cyber%20Security%20%7C%20AI%20%7C%20Automation&descAlignY=58&descSize=20&descColor=8b949e"/>
 
-<!-- Animated Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d9ff,100:0d1117&height=200&section=header&text=Erkan%20ŞAHİN&fontSize=60&fontColor=00d9ff&fontAlignY=38&animation=fadeIn&desc=Cyber%20Security%20%7C%20AI%20%7C%20Automation&descAlignY=58&descSize=20&descColor=8b949e"/>
+  <!-- Typing Animation -->
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&height=50&lines=🔐+Cyber+Security+Enthusiast;🤖+AI+%26+Security+Automation+Developer;🎓+Computer+Engineering+Student;🔴+Red+Team+%7C+🔵+Blue+Team+Operations;🕵️+Threat+Hunter+%7C+Digital+Forensics)](https://git.io/typing-svg)
 
-<!-- Typing Animation -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=700&height=50&lines=🔐+Cyber+Security+Enthusiast;🤖+AI+%26+Security+Automation+Developer;🎓+Computer+Engineering+Student;🔴+Red+Team+%7C+🔵+Blue+Team+Operations;🕵️+Threat+Hunter+%7C+Digital+Forensics)](https://git.io/typing-svg)
+  <br>
 
-<br>
-
-<!-- Social Badges -->
-<a href="https://www.linkedin.com/in/erkansahin23/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" />
-</a>
-<a href="https://github.com/cyb3rkan">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<img src="https://komarev.com/ghpvc/?username=cyb3rkan&style=for-the-badge&color=00d9ff&label=PROFILE+VIEWS" />
-
+  <!-- Social Badges -->
+  <a href="https://www.linkedin.com/in/erkansahin23/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/cyb3rkan">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=cyb3rkan&style=for-the-badge&color=00d9ff&label=PROFILE+VIEWS"/>
 </div>
-
-<br>
 
 ---
 
 ## 🧠 Hakkımda
 
-<img align="right" width="380" src="https://github-readme-stats.vercel.app/api?username=cyb3rkan&show_icons=true&theme=github_dark&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9&border_color=30363d&hide_border=false&count_private=true" />
+<div align="right">
+  <img width="380"
+       src="https://github-readme-stats.vercel.app/api?username=cyb3rkan&show_icons=true&theme=github_dark&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9&border_color=30363d&count_private=true"/>
+</div>
 
 ```python
 class CyberSecurityEngineer:
@@ -39,39 +38,33 @@ class CyberSecurityEngineer:
     @property
     def skills(self):
         return {
-            "languages" : ["Python", "C#", "C++", "Java"],
-            "security"  : ["Red Team", "Blue Team",
-                           "Digital Forensics", "OSINT"],
-            "tools"     : ["Kali Linux", "Wireshark",
-                           "Metasploit", "Nmap", "Burp Suite"],
-            "learning"  : ["AI Security Agents",
-                           "Malware Analysis",
-                           "Threat Hunting"]
+            "languages": ["Python", "C#", "C++", "Java"],
+            "security": [
+                "Red Team",
+                "Blue Team",
+                "Digital Forensics",
+                "OSINT"
+            ],
+            "tools": [
+                "Kali Linux",
+                "Wireshark",
+                "Metasploit",
+                "Nmap",
+                "Burp Suite"
+            ],
+            "learning": [
+                "AI Security Agents",
+                "Malware Analysis",
+                "Threat Hunting"
+            ]
         }
 
     def motto(self):
         return "Hack to learn. Learn to defend."
 
+
 me = CyberSecurityEngineer()
 print(me.motto())
-```
-
-<br clear="right"/>
-
----
-
-## 📊 GitHub İstatistikleri
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyb3rkan&layout=compact&theme=github_dark&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9&border_color=30363d&langs_count=8&hide_border=false"/>
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=cyb3rkan&theme=github-dark-blue&background=0D1117&ring=00d9ff&fire=ff6b6b&currStreakLabel=00d9ff&border=30363d&dates=8b949e"/>
-
-</div>
-
-<div align="center">
-<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=cyb3rkan&theme=github-compact&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff&area=true&area_color=00d9ff&hide_border=false&border_color=30363d"/>
-</div>
 
 ---
 
