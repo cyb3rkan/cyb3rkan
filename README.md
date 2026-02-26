@@ -36,7 +36,7 @@
 
 <table>
 <tr>
-<td valign="top" width="55%">
+<td valign="top" width="45%">
 
 ```python
 class CyberSecurityEngineer:
@@ -76,7 +76,7 @@ print(me.motto())
 ```
 
 </td>
-<td valign="top" width="45%">
+<td valign="top" width="27%">
 
 <div align="center">
 
@@ -93,13 +93,18 @@ print(me.motto())
 
 **🔥 Aktif Projeler**
 
-[![IOC Enricher](https://img.shields.io/badge/🔍_IOC_Enricher_Agent-Tamamlandı-00C853?style=flat-square&labelColor=161b22)](https://github.com/cyb3rkan/ioc-enricher-agent)
+[![IOC Enricher](https://img.shields.io/badge/🔍_IOC_Enricher-Tamamlandı-00C853?style=flat-square&labelColor=161b22)](https://github.com/cyb3rkan/ioc-enricher-agent)
 
 [![Log Analyzer](https://img.shields.io/badge/📊_Log_Analyzer_AI-Tamamlandı-00C853?style=flat-square&labelColor=161b22)](https://github.com/cyb3rkan/log-analyzer-ai)
 
 [![OSINT Profiler](https://img.shields.io/badge/🕵️_OSINT_Profiler-Geliştiriliyor-FFA500?style=flat-square&labelColor=161b22)](https://github.com/cyb3rkan/osint-profiler)
 
-<br>
+</div>
+
+</td>
+<td valign="top" width="28%">
+
+<div align="center">
 
 **📊 GitHub İstatistikleri**
 
@@ -110,6 +115,12 @@ print(me.motto())
 **🏆 En Çok Kullanılan Diller**
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cyb3rkan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=8b949e)
+
+<br>
+
+**🔥 Streak**
+
+![GitHub Streak](https://streak-stats.demolab.com?user=cyb3rkan&theme=tokyonight&hide_border=true&background=0d1117&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff)
 
 </div>
 
