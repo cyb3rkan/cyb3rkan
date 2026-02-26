@@ -1,14 +1,13 @@
 <div align="center">
 
-<!-- Animated Header Banner -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d9ff,100:0d1117&height=220&section=header&text=Erkan%20ŞAHİN&fontSize=70&fontColor=00d9ff&fontAlignY=38&animation=fadeIn&desc=Cyber%20Security%20%7C%20AI%20%7C%20Developer&descAlignY=58&descSize=22&descColor=8b949e"/>
 
-<!-- Typing Animation -->
+<br>
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=22&pause=800&color=00D9FF&center=true&vCenter=true&random=false&width=750&height=55&lines=🔐+Cyber+Security+Enthusiast;🤖+AI+%26+Security+Automation+Developer;🎓+Computer+Engineering+Student;💡+Use+AI+—+Fix+Problems)](https://git.io/typing-svg)
 
 <br>
 
-<!-- Social Badges -->
 <a href="https://www.linkedin.com/in/erkansahin23/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
@@ -21,7 +20,6 @@
 
 <br><br>
 
-<!-- Quick Info Pills -->
 <img src="https://img.shields.io/badge/📍_Konum-Türkiye-00d9ff?style=flat-square&labelColor=161b22"/>
 &nbsp;
 <img src="https://img.shields.io/badge/🎓_Durum-BilMüh_Öğrencisi-6e40c9?style=flat-square&labelColor=161b22"/>
@@ -38,7 +36,7 @@
 
 <table>
 <tr>
-<td valign="top" width="52%">
+<td valign="top" width="55%">
 
 ```python
 class CyberSecurityEngineer:
@@ -78,12 +76,14 @@ print(me.motto())
 ```
 
 </td>
-<td valign="top" width="48%">
+<td valign="top" width="45%">
 
 <div align="center">
 
 **⚡ İlgi Alanları**
 
+| Alan |
+|------|
 | 🔴 Red Team / Pentest |
 | 🔵 Blue Team / SOC |
 | 🕵️ OSINT |
@@ -94,7 +94,9 @@ print(me.motto())
 **🔥 Aktif Projeler**
 
 [![IOC Enricher](https://img.shields.io/badge/🔍_IOC_Enricher_Agent-Tamamlandı-00C853?style=flat-square&labelColor=161b22)](https://github.com/cyb3rkan/ioc-enricher-agent)
+
 [![Log Analyzer](https://img.shields.io/badge/📊_Log_Analyzer_AI-Tamamlandı-00C853?style=flat-square&labelColor=161b22)](https://github.com/cyb3rkan/log-analyzer-ai)
+
 [![OSINT Profiler](https://img.shields.io/badge/🕵️_OSINT_Profiler-Geliştiriliyor-FFA500?style=flat-square&labelColor=161b22)](https://github.com/cyb3rkan/osint-profiler)
 
 </div>
@@ -103,7 +105,6 @@ print(me.motto())
 </tr>
 </table>
 
----
 ---
 
 ## 🛠️ Tech Stack
@@ -117,6 +118,8 @@ print(me.motto())
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
+<br>
+
 ### 🔒 Güvenlik Araçları
 
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
@@ -124,11 +127,15 @@ print(me.motto())
 ![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white)
 
+<br>
+
 ### ⚙️ Geliştirme & Ortam
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
+<br>
 
 ### 🤖 AI & Otomasyon
 
@@ -155,7 +162,7 @@ print(me.motto())
   <tbody>
     <tr>
       <td>🔍 <a href="https://github.com/cyb3rkan/ioc-enricher-agent"><b>IOC Enricher Agent</b></a></td>
-      <td>Otomatik IOC zenginleştirme ve tehdit analizi aracı — VirusTotal, AbuseIPDB ve AI entegrasyonu ile</td>
+      <td>Otomatik IOC zenginleştirme ve tehdit analizi — VirusTotal, AbuseIPDB ve AI entegrasyonu ile</td>
       <td>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
         <img src="https://img.shields.io/badge/AI-412991?style=flat-square&logo=openai&logoColor=white"/>
@@ -178,7 +185,7 @@ print(me.motto())
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
         <img src="https://img.shields.io/badge/OSINT-4B0082?style=flat-square&logoColor=white"/>
       </td>
-      <td><img src="https://img.shields.io/badge/📋_Planlanıyor-00d9ff?style=flat-square&labelColor=0d1117"/></td>
+      <td><img src="https://img.shields.io/badge/🚧_Geliştiriliyor-FFA500?style=flat-square&labelColor=0d1117"/></td>
     </tr>
   </tbody>
 </table>
@@ -191,6 +198,8 @@ print(me.motto())
 
 <div align="center">
 
+| | Hedef |
+|--|-------|
 | 🔐 | AI destekli güvenlik otomasyon araçları geliştirmek |
 | 🛠️ | Tamamlanan projeleri dokümante etmek ve yayınlamak |
 | 📝 | Blog yazıları ile bilgiyi toplulukla paylaşmak |
@@ -218,14 +227,15 @@ print(me.motto())
 <a href="https://www.linkedin.com/in/erkansahin23/">
   <img src="https://img.shields.io/badge/LinkedIn'de_Bul-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-&nbsp;
-<br>
+
+<br><br>
 
 ### 💡 Günün Sözü
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
+<br>
+
 </div>
 
-<!-- Footer Wave -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d9ff,100:0d1117&height=120&section=footer"/>
