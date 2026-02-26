@@ -48,7 +48,7 @@ class CyberSecurityEngineer:
         self.name      = "Erkan ŞAHİN"
         self.role      = "BilMüh Öğrencisi"
         self.location  = "🇹🇷 Türkiye"
-        self.focus     = "AI-Driven Security"
+        self.focus     = "AI Automation Security"
         self.available = True  # open to work
 
     @property
@@ -58,7 +58,6 @@ class CyberSecurityEngineer:
             "🔵 Blue Team — SOC & Threat Hunting",
             "🤖 AI Security Agents & Automation",
             "🕵️  OSINT & Digital Forensics",
-            "🦠 Malware Analysis & Reverse Eng.",
         ]
 
     def currently_working_on(self):
@@ -85,16 +84,12 @@ print(me.motto())
 
 <div align="center">
 
-**⚡ Uzmanlık Seviyeleri**
+**⚡ İlgi Alanları**
 
-| Alan | Seviye |
-|:-----|:-------|
-| 🔴 Red Team / Pentest | `████████░░` 80% |
-| 🔵 Blue Team / SOC | `███████░░░` 70% |
-| 🕵️ OSINT | `████████░░` 80% |
-| 🤖 AI / ML Security | `██████░░░░` 60% |
-| 🔬 Digital Forensics | `██████░░░░` 60% |
-| 🦠 Malware Analysis | `█████░░░░░` 50% |
+| 🔴 Red Team / Pentest |
+| 🔵 Blue Team / SOC |
+| 🕵️ OSINT |
+| 🤖 AI / ML Security |
 
 <br>
 
@@ -111,29 +106,6 @@ print(me.motto())
 </table>
 
 ---
-
-## 📊 GitHub İstatistikleri
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=cyb3rkan&show_icons=true&theme=github_dark&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9&border_color=30363d&count_private=true"/>
-&nbsp;
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyb3rkan&layout=compact&theme=github_dark&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9&border_color=30363d&langs_count=8"/>
-
-<br>
-
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com?user=cyb3rkan&theme=github-dark-blue&background=0D1117&ring=00d9ff&fire=ff6b6b&currStreakLabel=00d9ff&border=30363d&dates=8b949e"/>
-
-<br>
-
-<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=cyb3rkan&theme=github-compact&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff&area=true&area_color=00d9ff&hide_border=false&border_color=30363d"/>
-
-<br>
-
-<img src="https://github-profile-trophy.vercel.app/?username=cyb3rkan&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7"/>
-
-</div>
-
 ---
 
 ## 🛠️ Tech Stack
@@ -143,33 +115,27 @@ print(me.motto())
 ### 👨‍💻 Programlama Dilleri
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 ### 🔒 Güvenlik Araçları
 
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=portswigger&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white)
-![Ghidra](https://img.shields.io/badge/Ghidra-FF0000?style=for-the-badge&logoColor=white)
 
 ### ⚙️ Geliştirme & Ortam
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ### 🤖 AI & Otomasyon
 
+![Claude](https://img.shields.io/badge/Claude-FF6F3C?style=for-the-badge&logo=anthropic&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logoColor=white)
 
 </div>
 
@@ -223,17 +189,15 @@ print(me.motto())
 
 ---
 
-## 🎯 2025 Hedefleri
+## 🎯 2026 Hedefleri
 
 <div align="center">
 
-| # | Hedef | İlerleme |
-|:---:|:------|:---------|
-| 🔐 | AI destekli güvenlik otomasyon araçları geliştirmek | `████████░░` 80% |
-| 🛠️ | Tamamlanan projeleri dokümante etmek ve yayınlamak | `███████░░░` 70% |
-| 📝 | Blog yazıları ile bilgiyi toplulukla paylaşmak | `███░░░░░░░` 30% |
-| 🤝 | Açık kaynak güvenlik projelerine katkı sağlamak | `███░░░░░░░` 30% |
-| 🎓 | Siber güvenlik sertifikaları almak (CEH, OSCP) | `████░░░░░░` 40% |
+| 🔐 | AI destekli güvenlik otomasyon araçları geliştirmek |
+| 🛠️ | Tamamlanan projeleri dokümante etmek ve yayınlamak |
+| 📝 | Blog yazıları ile bilgiyi toplulukla paylaşmak |
+| 🤝 | Açık kaynak güvenlik projelerine katkı sağlamak |
+| 🎓 | Siber güvenlik sertifikaları almak (CEH, OSCP) |
 
 </div>
 
@@ -257,11 +221,7 @@ print(me.motto())
   <img src="https://img.shields.io/badge/LinkedIn'de_Bul-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 &nbsp;
-<a href="mailto:erkansahin@example.com">
-  <img src="https://img.shields.io/badge/E--Posta_Gönder-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-<br><br>
+<br>
 
 ### 💡 Günün Sözü
 
