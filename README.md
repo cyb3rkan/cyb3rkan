@@ -4,7 +4,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d9ff,100:0d1117&height=220&section=header&text=Erkan%20ŞAHİN&fontSize=70&fontColor=00d9ff&fontAlignY=38&animation=fadeIn&desc=Cyber%20Security%20%7C%20AI%20%7C%20Automation&descAlignY=58&descSize=22&descColor=8b949e"/>
 
 <!-- Typing Animation -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=750&height=55&lines=🔐+Cyber+Security+Enthusiast;🤖+AI+%26+Security+Automation+Developer;🎓+Computer+Engineering+Student;💡+Hack+to+Learn+—+Learn+to+Defend)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=750&height=55&lines=🔐+Cyber+Security+Enthusiast;🤖+AI+%26+Security+Automation+Developer;🎓+Computer+Engineering+Student;💡+Use+AI+—+Fix+Problems)](https://git.io/typing-svg)
 
 <br>
 
