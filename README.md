@@ -22,13 +22,11 @@
 <br><br>
 
 <!-- Quick Info Pills -->
-<img src="https://img.shields.io/badge/📍_Konum-Türkiye-00d9ff?style=flat-square&labelColor=161b22"/>
+<img src="https://img.shields.io/badge/📍-Konum_Türkiye-00d9ff?style=flat-square&labelColor=161b22"/>
 &nbsp;
-<img src="https://img.shields.io/badge/🎓_Durum-BilMüh_Öğrencisi-6e40c9?style=flat-square&labelColor=161b22"/>
+<img src="https://img.shields.io/badge/🎓-Durum-BilMüh_Öğrencisi-6e40c9?style=flat-square&labelColor=161b22"/>
 &nbsp;
-<img src="https://img.shields.io/badge/💼_İşbirliği-Açık_✅-00C853?style=flat-square&labelColor=161b22"/>
-&nbsp;
-<img src="https://img.shields.io/badge/⚡_Odak-AI+Driven+Security-ff6b6b?style=flat-square&labelColor=161b22"/>
+<img src="https://img.shields.io/badge/⚡-Odak-AI_Automation_Security-ff6b6b?style=flat-square&labelColor=161b22"/>
 
 </div>
 
