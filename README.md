@@ -99,6 +99,18 @@ print(me.motto())
 
 [![OSINT Profiler](https://img.shields.io/badge/🕵️_OSINT_Profiler-Geliştiriliyor-FFA500?style=flat-square&labelColor=161b22)](https://github.com/cyb3rkan/osint-profiler)
 
+<br>
+
+**📊 GitHub İstatistikleri**
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cyb3rkan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=8b949e)
+
+<br>
+
+**🏆 En Çok Kullanılan Diller**
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cyb3rkan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=8b949e)
+
 </div>
 
 </td>
