@@ -36,7 +36,7 @@
 
 <table>
 <tr>
-<td valign="top" width="45%">
+<td valign="top" width="50%">
 
 ```python
 class CyberSecurityEngineer:
@@ -76,57 +76,75 @@ print(me.motto())
 ```
 
 </td>
-<td valign="top" width="27%">
+<td valign="top" width="50%">
 
 <div align="center">
 
-**⚡ İlgi Alanları**
-
-| Alan |
-|------|
-| 🔴 Red Team / Pentest |
-| 🔵 Blue Team / SOC |
-| 🕵️ OSINT |
-| 🤖 AI / ML Security |
+**🚀 Öne Çıkan Projeler**
 
 <br>
 
-**🔥 Aktif Projeler**
+🔍 [**IOC Enricher Agent**](https://github.com/cyb3rkan/ioc-enricher-agent)
 
-[![IOC Enricher](https://img.shields.io/badge/🔍_IOC_Enricher-Tamamlandı-00C853?style=flat-square&labelColor=161b22)](https://github.com/cyb3rkan/ioc-enricher-agent)
+Otomatik IOC zenginleştirme ve tehdit analizi aracı.
+VirusTotal, AbuseIPDB ve AI entegrasyonu ile çalışır.
 
-[![Log Analyzer](https://img.shields.io/badge/📊_Log_Analyzer_AI-Tamamlandı-00C853?style=flat-square&labelColor=161b22)](https://github.com/cyb3rkan/log-analyzer-ai)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![AI](https://img.shields.io/badge/AI-412991?style=flat-square&logo=openai&logoColor=white)
+![Status](https://img.shields.io/badge/✅_Tamamlandı-00C853?style=flat-square&labelColor=0d1117)
 
-[![OSINT Profiler](https://img.shields.io/badge/🕵️_OSINT_Profiler-Geliştiriliyor-FFA500?style=flat-square&labelColor=161b22)](https://github.com/cyb3rkan/osint-profiler)
+---
 
-</div>
+📊 [**Log Analyzer AI**](https://github.com/cyb3rkan/log-analyzer-ai)
 
-</td>
-<td valign="top" width="28%">
+AI destekli log analizi ve anomali tespiti.
+SIEM entegrasyonlu akıllı tehdit tanıma sistemi.
 
-<div align="center">
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![ML](https://img.shields.io/badge/ML-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Status](https://img.shields.io/badge/✅_Tamamlandı-00C853?style=flat-square&labelColor=0d1117)
 
-**📊 GitHub İstatistikleri**
+---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cyb3rkan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=8b949e)
+🕵️ [**OSINT Profiler**](https://github.com/cyb3rkan/osint-profiler)
 
-<br>
+OSINT veri toplama ve profil analizi platformu.
+Çoklu kaynak entegrasyonu ile hedef keşif aracı.
 
-**🏆 En Çok Kullanılan Diller**
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cyb3rkan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=8b949e)
-
-<br>
-
-**🔥 Streak**
-
-![GitHub Streak](https://streak-stats.demolab.com?user=cyb3rkan&theme=tokyonight&hide_border=true&background=0d1117&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![OSINT](https://img.shields.io/badge/OSINT-4B0082?style=flat-square&logoColor=white)
+![Status](https://img.shields.io/badge/🚧_Geliştiriliyor-FFA500?style=flat-square&labelColor=0d1117)
 
 </div>
 
 </td>
 </tr>
 </table>
+
+---
+
+## ⚡ İlgi Alanları & Aktif Projeler
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="25%">🔴<br><b>Red Team</b><br><sub>Penetration Testing</sub></td>
+<td align="center" width="25%">🔵<br><b>Blue Team</b><br><sub>SOC & Threat Hunting</sub></td>
+<td align="center" width="25%">🤖<br><b>AI Security</b><br><sub>Agents & Automation</sub></td>
+<td align="center" width="25%">🕵️<br><b>OSINT</b><br><sub>Digital Forensics</sub></td>
+</tr>
+</table>
+
+<br>
+
+[![IOC Enricher](https://img.shields.io/badge/🔍_IOC_Enricher_Agent-Tamamlandı-00C853?style=flat-square&labelColor=161b22)](https://github.com/cyb3rkan/ioc-enricher-agent)
+&nbsp;
+[![Log Analyzer](https://img.shields.io/badge/📊_Log_Analyzer_AI-Tamamlandı-00C853?style=flat-square&labelColor=161b22)](https://github.com/cyb3rkan/log-analyzer-ai)
+&nbsp;
+[![OSINT Profiler](https://img.shields.io/badge/🕵️_OSINT_Profiler-Geliştiriliyor-FFA500?style=flat-square&labelColor=161b22)](https://github.com/cyb3rkan/osint-profiler)
+
+</div>
 
 ---
 
@@ -164,54 +182,6 @@ print(me.motto())
 
 ![Claude](https://img.shields.io/badge/Claude-FF6F3C?style=for-the-badge&logo=anthropic&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-
-</div>
-
----
-
-## 🚀 Öne Çıkan Projeler
-
-<div align="center">
-
-<table>
-  <thead>
-    <tr>
-      <th align="center">Proje</th>
-      <th align="center">Açıklama</th>
-      <th align="center">Teknoloji</th>
-      <th align="center">Durum</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>🔍 <a href="https://github.com/cyb3rkan/ioc-enricher-agent"><b>IOC Enricher Agent</b></a></td>
-      <td>Otomatik IOC zenginleştirme ve tehdit analizi — VirusTotal, AbuseIPDB ve AI entegrasyonu ile</td>
-      <td>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/AI-412991?style=flat-square&logo=openai&logoColor=white"/>
-      </td>
-      <td><img src="https://img.shields.io/badge/✅_Tamamlandı-00C853?style=flat-square&labelColor=0d1117"/></td>
-    </tr>
-    <tr>
-      <td>📊 <a href="https://github.com/cyb3rkan/log-analyzer-ai"><b>Log Analyzer AI</b></a></td>
-      <td>AI destekli log analizi ve anomali tespiti — SIEM entegrasyonlu akıllı tehdit tanıma sistemi</td>
-      <td>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/ML-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
-      </td>
-      <td><img src="https://img.shields.io/badge/✅_Tamamlandı-00C853?style=flat-square&labelColor=0d1117"/></td>
-    </tr>
-    <tr>
-      <td>🕵️ <a href="https://github.com/cyb3rkan/osint-profiler"><b>OSINT Profiler</b></a></td>
-      <td>OSINT veri toplama ve profil analizi — çoklu kaynak entegrasyonu ile hedef keşif platformu</td>
-      <td>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/OSINT-4B0082?style=flat-square&logoColor=white"/>
-      </td>
-      <td><img src="https://img.shields.io/badge/🚧_Geliştiriliyor-FFA500?style=flat-square&labelColor=0d1117"/></td>
-    </tr>
-  </tbody>
-</table>
 
 </div>
 
