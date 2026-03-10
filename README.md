@@ -4,7 +4,7 @@
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=22&pause=800&color=00D9FF&center=true&vCenter=true&random=false&width=750&height=55&lines=🔐+Cyber+Security+Enthusiast;🤖+AI+%26+Security+Automation+Developer;🎓+Computer+Engineering+Student;+--+Vibe+Coding)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=22&pause=800&color=00D9FF&center=true&vCenter=true&random=false&width=750&height=55&lines=🔐+Cyber+Security+Enthusiast;🤖+AI+%26+Security+Automation+Developer;🎓+Computer+Engineering+Student; 💡+--+Vibe+Coding)](https://git.io/typing-svg)
 
 <br>
 
@@ -16,7 +16,7 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 &nbsp;
-<img src="https://komarev.com/ghpvc/?username=cyb3rkan&style=for-the-badge&color=00d9ff&label=PROFILE+VIEWS" />
+//<img src="https://komarev.com/ghpvc/?username=cyb3rkan&style=for-the-badge&color=00d9ff&label=PROFILE+VIEWS" />
 
 <br><br>
 
