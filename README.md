@@ -17,12 +17,8 @@
 </a>
 &nbsp;
 <a href="https://github.com/cyb3rkan">
-  <img src="https://profile-counter.glitch.me/cyb3rkan/count.svg" alt="Profile Views"/>
+ <img src="https://komarev.com/ghpvc/?username=cyb3rkan&style=for-the-badge&color=00d9ff&label=PROFILE+VIEWS" />
 </a>
-
-<br><br>
-
-[![cyb3rkan's GitHub stats](https://github-readme-stats.vercel.app/api?username=cyb3rkan&show_icons=true&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <br><br>
 
