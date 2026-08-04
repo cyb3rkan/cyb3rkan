@@ -1,55 +1,254 @@
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d9ff,100:0d1117&height=220&section=header&text=Erkan%20ŞAHİN&fontSize=70&fontColor=00d9ff&fontAlignY=38&animation=fadeIn&desc=Cybersecurity%20%7C%20SIEM%2FSOAR%20%7C%20Security%20Automation&descAlignY=58&descSize=21&descColor=8b949e"/>
+
+<br>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=21&pause=900&color=00D9FF&center=true&vCenter=true&random=false&width=780&height=55&lines=Cybersecurity+%26+SIEM%2FSOAR;Security+Automation+%26+Threat+Intelligence;Computer+Engineering+Student;Microsoft+Sentinel+%7C+OPNsense+%7C+Docker)](https://git.io/typing-svg)
+
+<br>
+
+<a href="https://www.linkedin.com/in/erkansahin23/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://github.com/cyb3rkan">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+&nbsp;
+<img src="https://komarev.com/ghpvc/?username=cyb3rkan&style=for-the-badge&color=00d9ff&label=PROFILE+VIEWS"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Konum-Türkiye-00d9ff?style=flat-square&labelColor=161b22"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Eğitim-Bilgisayar_Mühendisliği-6e40c9?style=flat-square&labelColor=161b22"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Odak-SIEM%2FSOAR_%26_Security_Automation-ff6b6b?style=flat-square&labelColor=161b22"/>
+
+</div>
+
+<br>
+
 ---
-name: frontend-design
-description: Guidance for distinctive, intentional visual design when building new UI or reshaping an existing one. Helps with aesthetic direction, typography, and making choices that don't read as templated defaults.
-license: Complete terms in LICENSE.txt
+
+## 👾 Hakkımda
+
+Fırat Üniversitesi Bilgisayar Mühendisliği 3. sınıf öğrencisiyim. Siber güvenlik, SIEM/SOAR sistemleri, tehdit istihbaratı, ağ güvenliği ve güvenli yazılım geliştirme alanlarında kendimi geliştiriyorum.
+
+2026 yaz döneminde **Data Market Bilgi Hizmetleri A.Ş.** bünyesinde Çözüm Destek Stajyeri olarak Microsoft Sentinel, Microsoft Security Copilot, Active Directory güvenlik logları ve ağ cihazlarından log toplama mimarileri üzerine çalıştım.
+
+OPNsense, VirtualMetric, Linux, Docker ve n8n kullanarak log toplama, güvenlik otomasyonu ve olay zenginleştirme senaryoları oluşturdum. Kişisel projelerimde ise tehdit istihbaratı, IOC analizi ve yapay zekâ destekli log analizi üzerine çalışıyorum.
+
+Uzun vadeli hedefim; güvenlik mühendisliği, SOC operasyonları ve penetration testing alanlarında uzmanlaşmak.
+
 ---
 
-# Frontend Design
+## 💼 Deneyim
 
-Approach this as the design lead at a small studio known for giving every client a visual identity that could not be mistaken for anyone else's. This client has already rejected proposals that felt templated, and is paying for a distinctive point of view: make deliberate, opinionated choices about palette, typography, and layout that are specific to this brief, and take one real aesthetic risk you can justify.
+### Çözüm Destek Stajyeri — Data Market Bilgi Hizmetleri A.Ş.
 
-## Ground it in the subject
+`Temmuz 2026 – Ağustos 2026` · `İstanbul, Türkiye`
 
-If the brief does not pin down what the product or subject is, pin it yourself before designing: name one concrete subject, its audience, and the page's single job, and state your choice. If there's any information in your memory about the human's preferences, context about what they're building, or designs you've made before – use that as a hint. The subject's own world, its materials, instruments, artifacts, and vernacular, is where distinctive choices come from. Build with the brief's real content and subject matter throughout.
+- Microsoft Sentinel ve SIEM/SOAR süreçleri üzerine araştırma ve laboratuvar çalışmaları
+- Microsoft Security Copilot ve güvenlik ajanlarının kullanım senaryolarının incelenmesi
+- Active Directory güvenlik olaylarının ve Windows loglarının değerlendirilmesi
+- OPNsense üzerinden ağ ve güvenlik loglarının toplanması
+- VirtualMetric, Linux ve Docker tabanlı log toplama laboratuvarı
+- n8n ile IOC zenginleştirme, risk değerlendirme ve SOC bildirim akışları
+- Teknik test, hata analizi, dokümantasyon ve sunum hazırlama
 
-## Design principles
+---
 
-For web designs, the hero is a thesis. Open with the most characteristic thing in the subject's world, in whatever form makes sense for it: a headline, an image, an animation, a live demo, an interactive moment. Be deliberate with your choice: a big number with a small label, supporting stats, and a gradient accent is the template answer, only use if that's truly the best option.
+## 🚀 Öne Çıkan Projeler
 
-Typography carries the personality of the page. Pair the display and body faces deliberately, not the same families you would reach for on any other project, and set a clear type scale with intentional weights, widths, and spacing. Make the type treatment itself a memorable part of the design, not a neutral delivery vehicle for the content.
+<table>
+<tr>
+<td valign="top" width="50%">
 
-Structure is information. Structural devices, numbering, eyebrows, dividers, labels, should encode something true about the content, not decorate it. Many generic designs use numbered markers (01 / 02 / 03), but that's only appropriate if the content actually is a sequence - like a real process or a typed timeline where order carries information the reader needs. Question if choices like numbered markers actually make sense before incorporating them.
+### 🔍 [IOC Enricher Agent](https://github.com/cyb3rkan/ioc-enricher-agent)
 
-Leverage motion deliberately. Think about where and if animation can serve the subject: a page-load sequence, a scroll-triggered reveal, hover micro-interactions, ambient atmosphere. An orchestrated moment usually lands harder than scattered effects; choose what the direction calls for. However, sometimes less is more, and extra animation contributes to the feeling that the design is AI-generated.
+IP adresi, domain, URL ve dosya hash'lerini analiz eden tehdit istihbaratı uygulaması.
 
-Match complexity to the vision. Maximalist directions need elaborate execution; minimal directions need precision in spacing, type, and detail. Elegance is executing the chosen vision well.
+VirusTotal, AbuseIPDB, Shodan, OTX ve GreyNoise servislerinden veri toplayarak IOC'ler için risk değerlendirmesi ve analiz çıktısı üretir.
 
-Consider written content carefully. Often a design brief may not contain real content, and it's up to you to come up with copy. Copy can make a design feel as templated as the design itself. See the below section on writing for more guidance.
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-## Process: brainstorm, explore, plan, critique, build, critique again
+</td>
+<td valign="top" width="50%">
 
-For calibration: AI-generated design right now clusters around three looks: (1) a warm cream background (near #F4F1EA) with a high-contrast serif display and a terracotta or warm-clay accent (often near #D97757 — Anthropic's own Claude-interaction accent, so on a user's brief it reads as a tell); (2) a near-black background with a single bright acid-green or vermilion accent; (3) a broadsheet-style layout with hairline rules, zero border-radius, and dense newspaper-like columns. All three are legitimate for some briefs, but they are defaults rather than choices, and they appear regardless of subject. Where the brief pins down a visual direction, follow it exactly — the brief's own words always win, including when it asks for one of these looks. Where it leaves an axis free, don't spend that freedom on one of these defaults. Just like a human designer who's hired, there's often a careful balance between doing what you're good at and taking each project as a chance to experiment and learn.
+### 🧠 [Threat Intel Correlator](https://github.com/cyb3rkan/Threat-Intel-Correlator)
 
-Work in two passes. First, brainstorm a short design plan based on the human's design brief: create a compact token system with color, type, layout, and signature. Color: describe the palette as 4–6 named hex values. Type: the typefaces for 2+ roles (a characterful display face that's used with restraint, a complementary body face, and a utility face for captions or data if needed). Layout: a layout concept, using one-sentence prose descriptions and ASCII wireframes to ideate and compare. Signature: the single unique element this page will be remembered by that embodies the brief in an appropriate way.
+IOC verilerini güvenlik loglarıyla ilişkilendirmek ve analist odaklı bulgular üretmek amacıyla geliştirdiğim defensive security projesi.
 
-Then review that plan against the brief before building: if any part of it reads like the generic default you would produce for any similar page (work through a similar prompt to see if you arrive somewhere similar) rather than a choice made for this specific brief — revise that part, say what you changed and why. Only after you've confirmed the relative uniqueness of your design plan should you start to write the code, following the revised plan exactly and deriving every color and type decision from it.
+Tehdit istihbaratı zenginleştirme, risk puanlama, korelasyon ve raporlama süreçlerine odaklanır.
 
-When writing the code, be careful of structuring your CSS selector specificities. It's easy to generate CSS classes that cancel each other out (especially with a type-based selector like .section and a element-based selector like .cta). This can happen often with paddings/margins between sections.
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Threat Intelligence](https://img.shields.io/badge/Threat_Intelligence-161b22?style=flat-square)
+![Log Analysis](https://img.shields.io/badge/Log_Analysis-161b22?style=flat-square)
 
-Try to do a lot of this planning and iteration in your thinking, and only show ideas to the user when you have higher confidence it'll delight them.
+</td>
+</tr>
 
-## Restraint and self-critique
+<tr>
+<td valign="top" width="50%">
 
-Spend your boldness in one place. Let the signature element be the one memorable thing, keep everything around it quiet and disciplined, and cut any decoration that does not serve the brief. Not taking a risk can be a risk itself! Build to a quality floor without announcing it: responsive down to mobile, visible keyboard focus, reduced motion respected. Critique your own work as you build, taking screenshots if your environment supports it – a picture is worth 1000 tokens. Consider Chanel's advice: before leaving the house, take a look in the mirror and remove one accessory. Human creators have memory and always try to do something new, so if you have a space to quickly jot down notes about what you've tried, it can help you in future passes.
+### 📊 [Log Analyzer AI](https://github.com/cyb3rkan/log-analyzer-ai)
 
-## More on writing in design
+Güvenlik loglarını analiz ederek olay özeti, bulgular, öneriler ve güven puanı oluşturan analiz uygulaması.
 
-Words appear in a design for one reason: to make it easier to understand, and therefore easier to use. They are design material, not decoration. Bring the same intentionality to copy that you would bring to spacing and color. Before writing anything, ask what the design needs to say, and how it can best be said to help the person navigate the experience.
+Kural tabanlı tespitler ile yapay zekâ destekli açıklamaları bir araya getirir.
 
-Write from the end user's side of the screen. Name things by what people control and recognize, never by how the system is built. A person manages notifications, not webhook config. Describe what something does in plain terms rather than selling it. Being specific is always better than being clever.
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Log Analysis](https://img.shields.io/badge/Log_Analysis-161b22?style=flat-square)
+![AI Assisted](https://img.shields.io/badge/AI_Assisted-6e40c9?style=flat-square)
 
-Use active voice as default. A control should say exactly what happens when it's used: "Save changes," not "Submit." An action keeps the same name through the whole flow, so the button that says "Publish" produces a toast that says "Published." The vocabulary of an interface is the signposting for someone navigating the product. Cohesion and consistency are how people learn their way around.
+</td>
+<td valign="top" width="50%">
 
-Treat failure and emptiness as moments for direction, not mood. Explain what went wrong and how to fix it, in the interface's voice rather than a person's. Errors don't apologize, and they are never vague about what happened. An empty screen is an invitation to act.
+### 🛡️ SIEM/SOAR Security Lab
 
-Keep the register conversational and tuned: plain verbs, sentence case, no filler, with tone matched to the brand and the audience. Let each element do exactly one job. A label labels, an example demonstrates, and nothing quietly does double duty.
+Microsoft Sentinel mantığını ve SOC otomasyon süreçlerini uygulamalı olarak öğrenmek amacıyla oluşturduğum laboratuvar çalışması.
+
+n8n üzerinde olay normalizasyonu, IOC türü belirleme, tehdit istihbaratı zenginleştirme, risk değerlendirme ve SOC bildirimi akışları içerir.
+
+![Microsoft Sentinel](https://img.shields.io/badge/Microsoft_Sentinel-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+![SOAR](https://img.shields.io/badge/SOAR-161b22?style=flat-square)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🧪 Güncel Laboratuvar Çalışmaları
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="25%">
+🛡️<br>
+<b>Microsoft Sentinel</b><br>
+<sub>SIEM, KQL ve olay yönetimi</sub>
+</td>
+
+<td align="center" width="25%">
+⚙️<br>
+<b>SOAR Automation</b><br>
+<sub>n8n playbook ve enrichment akışları</sub>
+</td>
+
+<td align="center" width="25%">
+🌐<br>
+<b>Network Log Collection</b><br>
+<sub>OPNsense, Syslog ve VirtualMetric</sub>
+</td>
+
+<td align="center" width="25%">
+🪟<br>
+<b>Active Directory</b><br>
+<sub>Windows güvenlik logları</sub>
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## 🛠️ Teknik Yetkinlikler
+
+<div align="center">
+
+### 🔐 Siber Güvenlik ve SOC
+
+![Microsoft Sentinel](https://img.shields.io/badge/Microsoft_Sentinel-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![SIEM](https://img.shields.io/badge/SIEM-161b22?style=for-the-badge)
+![SOAR](https://img.shields.io/badge/SOAR-161b22?style=for-the-badge)
+![Threat Intelligence](https://img.shields.io/badge/Threat_Intelligence-6e40c9?style=for-the-badge)
+![Log Analysis](https://img.shields.io/badge/Log_Analysis-00A4EF?style=for-the-badge)
+![Incident Response](https://img.shields.io/badge/Incident_Response-C62828?style=for-the-badge)
+
+<br>
+
+![Active Directory](https://img.shields.io/badge/Active_Directory-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![Security Copilot](https://img.shields.io/badge/Security_Copilot-5E5E5E?style=for-the-badge&logo=microsoft&logoColor=white)
+![OPNsense](https://img.shields.io/badge/OPNsense-D94F00?style=for-the-badge)
+![VirtualMetric](https://img.shields.io/badge/VirtualMetric-0057B8?style=for-the-badge)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge)
+
+<br>
+
+### ⚙️ Altyapı ve Otomasyon
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Poetry](https://img.shields.io/badge/Poetry-60A5FA?style=for-the-badge&logo=poetry&logoColor=white)
+
+<br>
+
+### 👨‍💻 Programlama Dilleri
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
+<br>
+
+### 🌐 Web ve Backend
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge)
+![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge)
+
+</div>
+
+---
+
+## 🎯 Gelişim Hedeflerim
+
+- Microsoft Sentinel, KQL ve SOC operasyonları konusunda daha fazla uygulamalı deneyim kazanmak
+- Active Directory güvenlik olaylarını ve kimlik tabanlı saldırıları daha iyi analiz etmek
+- SIEM/SOAR otomasyon projelerini gerçek sistemlere yakın senaryolarla geliştirmek
+- Ağ cihazlarından güvenli ve yüksek erişilebilir log toplama mimarileri oluşturmak
+- Güvenli yazılım geliştirme ve API güvenliği becerilerimi ilerletmek
+- Teknik projelerimi dokümante ederek açık kaynak olarak paylaşmak
+
+---
+
+## 📫 İletişim
+
+<div align="center">
+
+Siber güvenlik, yazılım geliştirme ve proje fikirleri hakkında iletişime geçebilirsiniz.
+
+<br><br>
+
+<a href="https://www.linkedin.com/in/erkansahin23/">
+  <img src="https://img.shields.io/badge/LinkedIn'de_Bağlantı_Kur-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<br><br>
+
+> **Learn by building. Improve by testing. Secure by design.**
+
+</div>
+
+<br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d9ff,100:0d1117&height=120&section=footer"/>
