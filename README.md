@@ -1,266 +1,55 @@
-<div align="center">
+---
+name: frontend-design
+description: Guidance for distinctive, intentional visual design when building new UI or reshaping an existing one. Helps with aesthetic direction, typography, and making choices that don't read as templated defaults.
+license: Complete terms in LICENSE.txt
+---
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=250&color=0:0D1117,45:111827,100:0D1117&text=Erkan%20%C5%9EAH%C4%B0N&fontColor=E6EDF3&fontSize=56&fontAlignY=42&desc=Cybersecurity%20%E2%80%A2%20SIEM%2FSOAR%20%E2%80%A2%20Security%20Automation&descAlignY=62&descSize=19&descColor=8B949E&stroke=00D9FF&strokeWidth=1"/>
+# Frontend Design
 
-<a href="https://www.linkedin.com/in/erkansahin23/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-&nbsp;
-<a href="https://github.com/cyb3rkan">
-  <img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-&nbsp;
-<img src="https://komarev.com/ghpvc/?username=cyb3rkan&style=for-the-badge&color=00B8D9&label=PROFILE+VIEWS" alt="Profile views"/>
+Approach this as the design lead at a small studio known for giving every client a visual identity that could not be mistaken for anyone else's. This client has already rejected proposals that felt templated, and is paying for a distinctive point of view: make deliberate, opinionated choices about palette, typography, and layout that are specific to this brief, and take one real aesthetic risk you can justify.
 
-<br><br>
+## Ground it in the subject
 
-<img src="https://img.shields.io/badge/Computer%20Engineering-Student-161B22?style=flat-square&labelColor=0D1117" alt="Computer Engineering Student"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Focus-SIEM%20%2F%20SOAR-00B8D9?style=flat-square&labelColor=0D1117" alt="SIEM SOAR"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Location-T%C3%BCrkiye-161B22?style=flat-square&labelColor=0D1117" alt="Türkiye"/>
+If the brief does not pin down what the product or subject is, pin it yourself before designing: name one concrete subject, its audience, and the page's single job, and state your choice. If there's any information in your memory about the human's preferences, context about what they're building, or designs you've made before – use that as a hint. The subject's own world, its materials, instruments, artifacts, and vernacular, is where distinctive choices come from. Build with the brief's real content and subject matter throughout.
 
-</div>
+## Design principles
 
-<br>
+For web designs, the hero is a thesis. Open with the most characteristic thing in the subject's world, in whatever form makes sense for it: a headline, an image, an animation, a live demo, an interactive moment. Be deliberate with your choice: a big number with a small label, supporting stats, and a gradient accent is the template answer, only use if that's truly the best option.
 
-Profil
+Typography carries the personality of the page. Pair the display and body faces deliberately, not the same families you would reach for on any other project, and set a clear type scale with intentional weights, widths, and spacing. Make the type treatment itself a memorable part of the design, not a neutral delivery vehicle for the content.
 
-<table>
-<tr>
-<td width="64%" valign="top">
+Structure is information. Structural devices, numbering, eyebrows, dividers, labels, should encode something true about the content, not decorate it. Many generic designs use numbered markers (01 / 02 / 03), but that's only appropriate if the content actually is a sequence - like a real process or a typed timeline where order carries information the reader needs. Question if choices like numbered markers actually make sense before incorporating them.
 
-Fırat Üniversitesi Bilgisayar Mühendisliği 3. sınıf öğrencisiyim. Siber güvenlik, SIEM/SOAR sistemleri, tehdit istihbaratı, ağ güvenliği ve güvenli yazılım geliştirme alanlarında uygulamalı çalışmalar yürütüyorum.
+Leverage motion deliberately. Think about where and if animation can serve the subject: a page-load sequence, a scroll-triggered reveal, hover micro-interactions, ambient atmosphere. An orchestrated moment usually lands harder than scattered effects; choose what the direction calls for. However, sometimes less is more, and extra animation contributes to the feeling that the design is AI-generated.
 
-Staj sürecimde Microsoft Sentinel, Microsoft Security Copilot, Active Directory güvenlik logları, OPNsense, VirtualMetric, Linux, Docker ve n8n ile log toplama, olay zenginleştirme ve güvenlik otomasyonu senaryoları üzerine çalışıyorum.
+Match complexity to the vision. Maximalist directions need elaborate execution; minimal directions need precision in spacing, type, and detail. Elegance is executing the chosen vision well.
 
-Kişisel projelerimde IOC analizi, tehdit istihbaratı korelasyonu ve yapay zekâ destekli log analizi çözümleri geliştiriyorum.
+Consider written content carefully. Often a design brief may not contain real content, and it's up to you to come up with copy. Copy can make a design feel as templated as the design itself. See the below section on writing for more guidance.
 
-</td>
-<td width="36%" valign="top">
+## Process: brainstorm, explore, plan, critique, build, critique again
 
-Odak Alanları
+For calibration: AI-generated design right now clusters around three looks: (1) a warm cream background (near #F4F1EA) with a high-contrast serif display and a terracotta or warm-clay accent (often near #D97757 — Anthropic's own Claude-interaction accent, so on a user's brief it reads as a tell); (2) a near-black background with a single bright acid-green or vermilion accent; (3) a broadsheet-style layout with hairline rules, zero border-radius, and dense newspaper-like columns. All three are legitimate for some briefs, but they are defaults rather than choices, and they appear regardless of subject. Where the brief pins down a visual direction, follow it exactly — the brief's own words always win, including when it asks for one of these looks. Where it leaves an axis free, don't spend that freedom on one of these defaults. Just like a human designer who's hired, there's often a careful balance between doing what you're good at and taking each project as a chance to experiment and learn.
 
-SIEM / SOAR
-Threat Intelligence
-Security Automation
-Network Security
-Secure Development
-SOC Operations
+Work in two passes. First, brainstorm a short design plan based on the human's design brief: create a compact token system with color, type, layout, and signature. Color: describe the palette as 4–6 named hex values. Type: the typefaces for 2+ roles (a characterful display face that's used with restraint, a complementary body face, and a utility face for captions or data if needed). Layout: a layout concept, using one-sentence prose descriptions and ASCII wireframes to ideate and compare. Signature: the single unique element this page will be remembered by that embodies the brief in an appropriate way.
 
-Hedef
+Then review that plan against the brief before building: if any part of it reads like the generic default you would produce for any similar page (work through a similar prompt to see if you arrive somewhere similar) rather than a choice made for this specific brief — revise that part, say what you changed and why. Only after you've confirmed the relative uniqueness of your design plan should you start to write the code, following the revised plan exactly and deriving every color and type decision from it.
 
-Güvenlik mühendisliği ve SOC operasyonları alanlarında uzmanlaşmak.
+When writing the code, be careful of structuring your CSS selector specificities. It's easy to generate CSS classes that cancel each other out (especially with a type-based selector like .section and a element-based selector like .cta). This can happen often with paddings/margins between sections.
 
-</td>
-</tr>
-</table>
+Try to do a lot of this planning and iteration in your thinking, and only show ideas to the user when you have higher confidence it'll delight them.
 
-Deneyim
+## Restraint and self-critique
 
-<table>
-<tr>
-<td width="68%" valign="top">
+Spend your boldness in one place. Let the signature element be the one memorable thing, keep everything around it quiet and disciplined, and cut any decoration that does not serve the brief. Not taking a risk can be a risk itself! Build to a quality floor without announcing it: responsive down to mobile, visible keyboard focus, reduced motion respected. Critique your own work as you build, taking screenshots if your environment supports it – a picture is worth 1000 tokens. Consider Chanel's advice: before leaving the house, take a look in the mirror and remove one accessory. Human creators have memory and always try to do something new, so if you have a space to quickly jot down notes about what you've tried, it can help you in future passes.
 
-Çözüm Destek Stajyeri
+## More on writing in design
 
-Data Market Bilgi Hizmetleri A.Ş.Temmuz 2026 — Devam ediyor · İstanbul, Türkiye
+Words appear in a design for one reason: to make it easier to understand, and therefore easier to use. They are design material, not decoration. Bring the same intentionality to copy that you would bring to spacing and color. Before writing anything, ask what the design needs to say, and how it can best be said to help the person navigate the experience.
 
-Microsoft Sentinel ve SIEM/SOAR süreçleri üzerine araştırma, laboratuvar, test ve teknik dokümantasyon çalışmaları yürütüyorum.
+Write from the end user's side of the screen. Name things by what people control and recognize, never by how the system is built. A person manages notifications, not webhook config. Describe what something does in plain terms rather than selling it. Being specific is always better than being clever.
 
-</td>
-<td width="32%" valign="top">
+Use active voice as default. A control should say exactly what happens when it's used: "Save changes," not "Submit." An action keeps the same name through the whole flow, so the button that says "Publish" produces a toast that says "Published." The vocabulary of an interface is the signposting for someone navigating the product. Cohesion and consistency are how people learn their way around.
 
-Çalışma Alanları
+Treat failure and emptiness as moments for direction, not mood. Explain what went wrong and how to fix it, in the interface's voice rather than a person's. Errors don't apologize, and they are never vague about what happened. An empty screen is an invitation to act.
 
-Microsoft Sentinel
-
-Security Copilot
-
-Active Directory logları
-
-OPNsense ve Syslog
-
-VirtualMetric
-
-n8n otomasyonları
-
-Docker ve Linux
-
-</td>
-</tr>
-</table>
-
-Öne Çıkan Projeler
-
-<div align="center">
-
-<a href="https://github.com/cyb3rkan/ioc-enricher-agent">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=cyb3rkan&repo=ioc-enricher-agent&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&icon_color=00D9FF" alt="IOC Enricher Agent"/>
-</a>
-<a href="https://github.com/cyb3rkan/Threat-Intel-Correlator">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=cyb3rkan&repo=Threat-Intel-Correlator&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&icon_color=00D9FF" alt="Threat Intel Correlator"/>
-</a>
-
-<a href="https://github.com/cyb3rkan/log-analyzer-ai">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=cyb3rkan&repo=log-analyzer-ai&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&icon_color=00D9FF" alt="Log Analyzer AI"/>
-</a>
-
-</div>
-
-<br>
-
-<table>
-<tr>
-<td width="33%" valign="top">
-
-IOC Enricher Agent
-
-IP, domain, URL ve dosya hash'leri için çoklu tehdit istihbaratı servislerinden veri toplayan analiz platformu.
-
-FastAPI Next.js Docker Redis
-
-</td>
-<td width="33%" valign="top">
-
-Threat Intel Correlator
-
-IOC verilerini güvenlik loglarıyla ilişkilendiren, risk puanlayan ve analist odaklı bulgular üreten defensive security projesi.
-
-Python FastAPI Threat Intel
-
-</td>
-<td width="33%" valign="top">
-
-Log Analyzer AI
-
-Güvenlik loglarından olay özeti, bulgu, öneri ve güven puanı üreten kural tabanlı ve AI destekli analiz uygulaması.
-
-Python Log Analysis AI
-
-</td>
-</tr>
-</table>
-
-SIEM / SOAR Laboratuvarı
-
-flowchart LR
-    A[OPNsense] -->|Syslog| B[Linux Collector]
-    B --> C[VirtualMetric]
-    C --> D[Microsoft Sentinel]
-    D --> E[n8n SOAR]
-    E --> F[Threat Intelligence APIs]
-    E --> G[SOC Notification]
-
-    classDef source fill:#0D1117,stroke:#00D9FF,color:#E6EDF3,stroke-width:1px;
-    classDef core fill:#111827,stroke:#1F6FEB,color:#E6EDF3,stroke-width:1px;
-    classDef output fill:#0D1117,stroke:#2EA043,color:#E6EDF3,stroke-width:1px;
-
-    class A,B,C source;
-    class D,E core;
-    class F,G output;
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Microsoft%20Sentinel-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Microsoft Sentinel"/>
-<img src="https://img.shields.io/badge/OPNsense-D94F00?style=flat-square&logo=opnsense&logoColor=white" alt="OPNsense"/>
-<img src="https://img.shields.io/badge/VirtualMetric-0057B8?style=flat-square" alt="VirtualMetric"/>
-<img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" alt="n8n"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux"/>
-
-</div>
-
-Teknik Yığın
-
-<div align="center">
-
-Yazılım ve Altyapı
-
-<img src="https://skillicons.dev/icons?i=python,java,cs,cpp,ts,fastapi,nextjs,react,docker,linux,kali,git&theme=dark&perline=6" alt="Technical stack"/>
-
-<br><br>
-
-Güvenlik ve Otomasyon
-
-<img src="https://img.shields.io/badge/SIEM-161B22?style=flat-square&logoColor=white" alt="SIEM"/>
-<img src="https://img.shields.io/badge/SOAR-161B22?style=flat-square&logoColor=white" alt="SOAR"/>
-<img src="https://img.shields.io/badge/Threat%20Intelligence-6E40C9?style=flat-square" alt="Threat Intelligence"/>
-<img src="https://img.shields.io/badge/Log%20Analysis-1F6FEB?style=flat-square" alt="Log Analysis"/>
-<img src="https://img.shields.io/badge/Incident%20Response-B42318?style=flat-square" alt="Incident Response"/>
-<img src="https://img.shields.io/badge/Active%20Directory-0078D4?style=flat-square&logo=microsoft&logoColor=white" alt="Active Directory"/>
-<img src="https://img.shields.io/badge/Microsoft%20Security%20Copilot-5E5E5E?style=flat-square&logo=microsoft&logoColor=white" alt="Security Copilot"/>
-<img src="https://img.shields.io/badge/REST%20API-02569B?style=flat-square" alt="REST API"/>
-<img src="https://img.shields.io/badge/Groq-F55036?style=flat-square" alt="Groq"/>
-
-</div>
-
-GitHub Analitiği
-
-<div align="center">
-
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=cyb3rkan&show_icons=true&include_all_commits=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&icon_color=00D9FF&rank_icon=github" alt="GitHub statistics"/>
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyb3rkan&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9" alt="Top languages"/>
-
-<br>
-
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=cyb3rkan&bg_color=0D1117&color=C9D1D9&line=00D9FF&point=FFFFFF&area=true&area_color=00D9FF&hide_border=true" alt="Contribution activity graph"/>
-
-</div>
-
-Güncel Odak
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-Güvenlik Operasyonları
-
-Microsoft Sentinel ve KQL
-
-Active Directory güvenlik olayları
-
-Olay analizi ve korelasyon
-
-SOC bildirim ve müdahale akışları
-
-</td>
-<td width="50%" valign="top">
-
-Güvenlik Mühendisliği
-
-Güvenli log toplama mimarileri
-
-SIEM/SOAR otomasyonu
-
-API güvenliği
-
-Güvenli yazılım geliştirme
-
-Teknik dokümantasyon ve test
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-
-İletişim
-
-Siber güvenlik, yazılım geliştirme ve proje fikirleri hakkında iletişime geçebilirsiniz.
-
-<br>
-
-<a href="https://www.linkedin.com/in/erkansahin23/">
-  <img src="https://img.shields.io/badge/LinkedIn'de%20Bağlantı%20Kur-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-
-<br><br>
-
-<sub>Learn by building. Improve by testing. Secure by design.</sub>
-
-<br><br>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:00D9FF,100:1F6FEB&section=footer"/>
-
-</div>
+Keep the register conversational and tuned: plain verbs, sentence case, no filler, with tone matched to the brand and the audience. Let each element do exactly one job. A label labels, an example demonstrates, and nothing quietly does double duty.
