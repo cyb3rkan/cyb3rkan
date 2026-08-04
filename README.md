@@ -1,30 +1,30 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d9ff,100:0d1117&height=220&section=header&text=Erkan%20ŞAHİN&fontSize=70&fontColor=00d9ff&fontAlignY=38&animation=fadeIn&desc=Cyber%20Security%20%7C%20AI%20%7C%20Developer&descAlignY=58&descSize=22&descColor=8b949e"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d9ff,100:0d1117&height=220&section=header&text=Erkan%20ŞAHİN&fontSize=70&fontColor=00d9ff&fontAlignY=38&animation=fadeIn&desc=Cybersecurity%20%7C%20SIEM%2FSOAR%20%7C%20Security%20Automation&descAlignY=58&descSize=21&descColor=8b949e"/>
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=22&pause=800&color=00D9FF&center=true&vCenter=true&random=false&width=750&height=55&lines=🔐+Cyber+Security+Enthusiast;🤖+AI+%26+Security+Automation+Developer;🎓+Computer+Engineering+Student;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=21&pause=900&color=00D9FF&center=true&vCenter=true&random=false&width=780&height=55&lines=Cybersecurity+%26+SIEM%2FSOAR;Security+Automation+%26+Threat+Intelligence;Computer+Engineering+Student;Microsoft+Sentinel+%7C+OPNsense+%7C+Docker)](https://git.io/typing-svg)
 
 <br>
 
 <a href="https://www.linkedin.com/in/erkansahin23/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 &nbsp;
 <a href="https://github.com/cyb3rkan">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 &nbsp;
-<img src="https://komarev.com/ghpvc/?username=cyb3rkan&style=for-the-badge&color=00d9ff&label=PROFILE+VIEWS" />
+<img src="https://komarev.com/ghpvc/?username=cyb3rkan&style=for-the-badge&color=00d9ff&label=PROFILE+VIEWS"/>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/📍_Konum-Türkiye-00d9ff?style=flat-square&labelColor=161b22"/>
+<img src="https://img.shields.io/badge/Konum-Türkiye-00d9ff?style=flat-square&labelColor=161b22"/>
 &nbsp;
-<img src="https://img.shields.io/badge/🎓_Durum-BilMüh_Öğrencisi-6e40c9?style=flat-square&labelColor=161b22"/>
+<img src="https://img.shields.io/badge/Eğitim-Bilgisayar_Mühendisliği-6e40c9?style=flat-square&labelColor=161b22"/>
 &nbsp;
-<img src="https://img.shields.io/badge/⚡_Odak-AI+Automation+Security-ff6b6b?style=flat-square&labelColor=161b22"/>
+<img src="https://img.shields.io/badge/Odak-SIEM%2FSOAR_%26_Security_Automation-ff6b6b?style=flat-square&labelColor=161b22"/>
 
 </div>
 
@@ -32,95 +32,94 @@
 
 ---
 
-## 👾 $ whoami
+## 👾 Hakkımda
+
+Fırat Üniversitesi Bilgisayar Mühendisliği 3. sınıf öğrencisiyim. Siber güvenlik, SIEM/SOAR sistemleri, tehdit istihbaratı, ağ güvenliği ve güvenli yazılım geliştirme alanlarında kendimi geliştiriyorum.
+
+2026 yaz döneminde **Data Market Bilgi Hizmetleri A.Ş.** bünyesinde Çözüm Destek Stajyeri olarak Microsoft Sentinel, Microsoft Security Copilot, Active Directory güvenlik logları ve ağ cihazlarından log toplama mimarileri üzerine çalıştım.
+
+OPNsense, VirtualMetric, Linux, Docker ve n8n kullanarak log toplama, güvenlik otomasyonu ve olay zenginleştirme senaryoları oluşturdum. Kişisel projelerimde ise tehdit istihbaratı, IOC analizi ve yapay zekâ destekli log analizi üzerine çalışıyorum.
+
+Uzun vadeli hedefim; güvenlik mühendisliği, SOC operasyonları ve penetration testing alanlarında uzmanlaşmak.
+
+---
+
+## 💼 Deneyim
+
+### Çözüm Destek Stajyeri — Data Market Bilgi Hizmetleri A.Ş.
+
+`Temmuz 2026 – Ağustos 2026` · `İstanbul, Türkiye`
+
+- Microsoft Sentinel ve SIEM/SOAR süreçleri üzerine araştırma ve laboratuvar çalışmaları
+- Microsoft Security Copilot ve güvenlik ajanlarının kullanım senaryolarının incelenmesi
+- Active Directory güvenlik olaylarının ve Windows loglarının değerlendirilmesi
+- OPNsense üzerinden ağ ve güvenlik loglarının toplanması
+- VirtualMetric, Linux ve Docker tabanlı log toplama laboratuvarı
+- n8n ile IOC zenginleştirme, risk değerlendirme ve SOC bildirim akışları
+- Teknik test, hata analizi, dokümantasyon ve sunum hazırlama
+
+---
+
+## 🚀 Öne Çıkan Projeler
 
 <table>
 <tr>
 <td valign="top" width="50%">
 
-```python
-class CyberSecurityEngineer:
-    def __init__(self):
-        self.name      = "Erkan ŞAHİN"
-        self.role      = "BilMüh Öğrencisi"
-        self.location  = "🇹🇷 Türkiye"
-        self.focus     = "AI Automation Security"
-        self.available = True  # open to work
+### 🔍 [IOC Enricher Agent](https://github.com/cyb3rkan/ioc-enricher-agent)
 
-    @property
-    def interests(self):
-        return [
-            "🔴 Red Team  — Penetration Testing",
-            "🔵 Blue Team — SOC & Threat Hunting",
-            "🤖 AI Security Agents & Automation",
-            "🕵️  OSINT & Digital Forensics",
-        ]
+IP adresi, domain, URL ve dosya hash'lerini analiz eden tehdit istihbaratı uygulaması.
 
-    def currently_working_on(self):
-        return {
-            "✅ Completed": [
-                "IOC Enricher Agent (v3)",
-                "Log Analyzer AI",
-                "Threat Intel Correlator",
-            ],
-            "🚧 In Progress": [
-                "Portfolio Website",
-                "Web UI for IOC Enricher & Log Analyzer",
-            ],
-        }
-
-    def motto(self):
-        return "Hack to learn. Learn to defend."
-
-me = CyberSecurityEngineer()
-print(me.motto())
-# >> Hack to learn. Learn to defend.
-```
-
-</td>
-<td valign="top" width="50%">
-
-<div align="center">
-
-**🚀 Öne Çıkan Projeler**
-
-<br>
-
-🧠 [**Threat Intel Correlator**](https://github.com/cyb3rkan/Threat-Intel-Correlator)
-
-Defensive security CLI + web dashboard. Correlates IOC feeds against logs,
-enriches via AbuseIPDB / VirusTotal / MISP, scores findings and generates
-AI-narrated analyst reports — all local-only with a tamper-evident audit log.
+VirusTotal, AbuseIPDB, Shodan, OTX ve GreyNoise servislerinden veri toplayarak IOC'ler için risk değerlendirmesi ve analiz çıktısı üretir.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Status](https://img.shields.io/badge/✅_Stable-00C853?style=flat-square&labelColor=0d1117)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
----
+</td>
+<td valign="top" width="50%">
 
-🔍 [**IOC Enricher Agent**](https://github.com/cyb3rkan/ioc-enricher-agent)
+### 🧠 [Threat Intel Correlator](https://github.com/cyb3rkan/Threat-Intel-Correlator)
 
-Automated IOC enrichment and threat analysis.
-Integrates VirusTotal, AbuseIPDB and AI-assisted scoring.
+IOC verilerini güvenlik loglarıyla ilişkilendirmek ve analist odaklı bulgular üretmek amacıyla geliştirdiğim defensive security projesi.
+
+Tehdit istihbaratı zenginleştirme, risk puanlama, korelasyon ve raporlama süreçlerine odaklanır.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Status](https://img.shields.io/badge/✅_Tamamlandı-00C853?style=flat-square&labelColor=0d1117)
+![Threat Intelligence](https://img.shields.io/badge/Threat_Intelligence-161b22?style=flat-square)
+![Log Analysis](https://img.shields.io/badge/Log_Analysis-161b22?style=flat-square)
 
----
+</td>
+</tr>
 
-📊 [**Log Analyzer AI**](https://github.com/cyb3rkan/log-analyzer-ai)
+<tr>
+<td valign="top" width="50%">
 
-AI-powered log analysis and anomaly detection.
-SOC detection pipeline with 6 detection rules and threat intel enrichment.
+### 📊 [Log Analyzer AI](https://github.com/cyb3rkan/log-analyzer-ai)
+
+Güvenlik loglarını analiz ederek olay özeti, bulgular, öneriler ve güven puanı oluşturan analiz uygulaması.
+
+Kural tabanlı tespitler ile yapay zekâ destekli açıklamaları bir araya getirir.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![Status](https://img.shields.io/badge/✅_Tamamlandı-00C853?style=flat-square&labelColor=0d1117)
+![Log Analysis](https://img.shields.io/badge/Log_Analysis-161b22?style=flat-square)
+![AI Assisted](https://img.shields.io/badge/AI_Assisted-6e40c9?style=flat-square)
 
-</div>
+</td>
+<td valign="top" width="50%">
+
+### 🛡️ SIEM/SOAR Security Lab
+
+Microsoft Sentinel mantığını ve SOC otomasyon süreçlerini uygulamalı olarak öğrenmek amacıyla oluşturduğum laboratuvar çalışması.
+
+n8n üzerinde olay normalizasyonu, IOC türü belirleme, tehdit istihbaratı zenginleştirme, risk değerlendirme ve SOC bildirimi akışları içerir.
+
+![Microsoft Sentinel](https://img.shields.io/badge/Microsoft_Sentinel-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+![SOAR](https://img.shields.io/badge/SOAR-161b22?style=flat-square)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 </td>
 </tr>
@@ -128,96 +127,107 @@ SOC detection pipeline with 6 detection rules and threat intel enrichment.
 
 ---
 
-## ⚡ İlgi Alanları & Aktif Projeler
+## 🧪 Güncel Laboratuvar Çalışmaları
 
 <div align="center">
 
 <table>
 <tr>
-<td align="center" width="25%">🔴<br><b>Red Team</b><br><sub>Penetration Testing</sub></td>
-<td align="center" width="25%">🔵<br><b>Blue Team</b><br><sub>SOC & Threat Hunting</sub></td>
-<td align="center" width="25%">🤖<br><b>AI Security</b><br><sub>Agents & Automation</sub></td>
-<td align="center" width="25%">🕵️<br><b>OSINT</b><br><sub>Digital Forensics</sub></td>
+<td align="center" width="25%">
+🛡️<br>
+<b>Microsoft Sentinel</b><br>
+<sub>SIEM, KQL ve olay yönetimi</sub>
+</td>
+
+<td align="center" width="25%">
+⚙️<br>
+<b>SOAR Automation</b><br>
+<sub>n8n playbook ve enrichment akışları</sub>
+</td>
+
+<td align="center" width="25%">
+🌐<br>
+<b>Network Log Collection</b><br>
+<sub>OPNsense, Syslog ve VirtualMetric</sub>
+</td>
+
+<td align="center" width="25%">
+🪟<br>
+<b>Active Directory</b><br>
+<sub>Windows güvenlik logları</sub>
+</td>
 </tr>
 </table>
-
-<br>
-
-[![TIC](https://img.shields.io/badge/🧠_Threat_Intel_Correlator-Stable-00C853?style=flat-square&labelColor=161b22)](https://github.com/cyb3rkan/Threat-Intel-Correlator)
-&nbsp;
-[![IOC Enricher](https://img.shields.io/badge/🔍_IOC_Enricher_Agent-Tamamlandı-00C853?style=flat-square&labelColor=161b22)](https://github.com/cyb3rkan/ioc-enricher-agent)
-&nbsp;
-[![Log Analyzer](https://img.shields.io/badge/📊_Log_Analyzer_AI-Tamamlandı-00C853?style=flat-square&labelColor=161b22)](https://github.com/cyb3rkan/log-analyzer-ai)
 
 </div>
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Teknik Yetkinlikler
 
 <div align="center">
 
-### 👨‍💻 Programlama Dilleri
+### 🔐 Siber Güvenlik ve SOC
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-
-<br>
-
-### 🌐 Web & Backend
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Microsoft Sentinel](https://img.shields.io/badge/Microsoft_Sentinel-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![SIEM](https://img.shields.io/badge/SIEM-161b22?style=for-the-badge)
+![SOAR](https://img.shields.io/badge/SOAR-161b22?style=for-the-badge)
+![Threat Intelligence](https://img.shields.io/badge/Threat_Intelligence-6e40c9?style=for-the-badge)
+![Log Analysis](https://img.shields.io/badge/Log_Analysis-00A4EF?style=for-the-badge)
+![Incident Response](https://img.shields.io/badge/Incident_Response-C62828?style=for-the-badge)
 
 <br>
 
-### 🔒 Güvenlik Araçları
-
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Active Directory](https://img.shields.io/badge/Active_Directory-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![Security Copilot](https://img.shields.io/badge/Security_Copilot-5E5E5E?style=for-the-badge&logo=microsoft&logoColor=white)
+![OPNsense](https://img.shields.io/badge/OPNsense-D94F00?style=for-the-badge)
+![VirtualMetric](https://img.shields.io/badge/VirtualMetric-0057B8?style=for-the-badge)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge)
 
 <br>
 
-### ⚙️ Geliştirme & Ortam
+### ⚙️ Altyapı ve Otomasyon
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Poetry](https://img.shields.io/badge/Poetry-60A5FA?style=for-the-badge&logo=poetry&logoColor=white)
 
 <br>
 
-### 🤖 AI & Otomasyon
+### 👨‍💻 Programlama Dilleri
 
-![Claude](https://img.shields.io/badge/Claude-FF6F3C?style=for-the-badge&logo=anthropic&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
+<br>
+
+### 🌐 Web ve Backend
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge)
+![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge)
 
 </div>
 
 ---
 
-## 🎯 2026 Hedefleri
+## 🎯 Gelişim Hedeflerim
 
-<div align="center">
-
-| | Hedef |
-|--|-------|
-| 🔐 | AI destekli güvenlik otomasyon araçları geliştirmek |
-| 🌐 | Projeleri portföy websitesinde toplamak |
-| 🛠️ | IOC Enricher ve Log Analyzer'a web UI eklemek |
-| 📝 | Blog yazıları ile bilgiyi toplulukla paylaşmak |
-| 🤝 | Açık kaynak güvenlik projelerine katkı sağlamak |
-| 🎓 | Siber güvenlik sertifikaları almak (CEH, OSCP) |
-
-</div>
+- Microsoft Sentinel, KQL ve SOC operasyonları konusunda daha fazla uygulamalı deneyim kazanmak
+- Active Directory güvenlik olaylarını ve kimlik tabanlı saldırıları daha iyi analiz etmek
+- SIEM/SOAR otomasyon projelerini gerçek sistemlere yakın senaryolarla geliştirmek
+- Ağ cihazlarından güvenli ve yüksek erişilebilir log toplama mimarileri oluşturmak
+- Güvenli yazılım geliştirme ve API güvenliği becerilerimi ilerletmek
+- Teknik projelerimi dokümante ederek açık kaynak olarak paylaşmak
 
 ---
 
@@ -225,28 +235,20 @@ SOC detection pipeline with 6 detection rules and threat intel enrichment.
 
 <div align="center">
 
-<br>
+Siber güvenlik, yazılım geliştirme ve proje fikirleri hakkında iletişime geçebilirsiniz.
 
-> *"The quieter you become, the more you can hear." — Kali Linux*
-
-<br>
-
-💼 İş birliği, proje fikirleri veya siber güvenlik hakkında konuşmak için ulaşabilirsiniz!
-
-<br>
+<br><br>
 
 <a href="https://www.linkedin.com/in/erkansahin23/">
-  <img src="https://img.shields.io/badge/LinkedIn'de_Bul-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn'de_Bağlantı_Kur-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <br><br>
 
-### 💡 Günün Sözü
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-<br>
+> **Learn by building. Improve by testing. Secure by design.**
 
 </div>
+
+<br>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d9ff,100:0d1117&height=120&section=footer"/>
