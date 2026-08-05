@@ -77,10 +77,14 @@ VirusTotal, AbuseIPDB, Shodan, OTX ve GreyNoise servislerinden veri toplayarak I
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
+![Yıldız](https://img.shields.io/github/stars/cyb3rkan/ioc-enricher-agent?style=flat-square&color=00d9ff&labelColor=161b22)
+![Son Commit](https://img.shields.io/github/last-commit/cyb3rkan/ioc-enricher-agent?style=flat-square&color=00d9ff&labelColor=161b22)
+![Lisans](https://img.shields.io/github/license/cyb3rkan/ioc-enricher-agent?style=flat-square&color=00d9ff&labelColor=161b22)
+
 </td>
 <td valign="top" width="50%">
 
-### 🧠 [Threat Intel Correlator](https://github.com/cyb3rkan/Threat-Intel-Correlator)
+### 🧠 [Threat Intel Correlator](https://github.com/cyb3rkan/threat-intel-correlator)
 
 IOC verilerini güvenlik loglarıyla ilişkilendirmek ve analist odaklı bulgular üretmek amacıyla geliştirdiğim defensive security projesi.
 
@@ -90,6 +94,10 @@ Tehdit istihbaratı zenginleştirme, risk puanlama, korelasyon ve raporlama sür
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Threat Intelligence](https://img.shields.io/badge/Threat_Intelligence-161b22?style=flat-square)
 ![Log Analysis](https://img.shields.io/badge/Log_Analysis-161b22?style=flat-square)
+
+![Yıldız](https://img.shields.io/github/stars/cyb3rkan/threat-intel-correlator?style=flat-square&color=00d9ff&labelColor=161b22)
+![Son Commit](https://img.shields.io/github/last-commit/cyb3rkan/threat-intel-correlator?style=flat-square&color=00d9ff&labelColor=161b22)
+![Lisans](https://img.shields.io/github/license/cyb3rkan/threat-intel-correlator?style=flat-square&color=00d9ff&labelColor=161b22)
 
 </td>
 </tr>
@@ -107,6 +115,10 @@ Kural tabanlı tespitler ile yapay zekâ destekli açıklamaları bir araya geti
 ![Log Analysis](https://img.shields.io/badge/Log_Analysis-161b22?style=flat-square)
 ![AI Assisted](https://img.shields.io/badge/AI_Assisted-6e40c9?style=flat-square)
 
+![Yıldız](https://img.shields.io/github/stars/cyb3rkan/log-analyzer-ai?style=flat-square&color=00d9ff&labelColor=161b22)
+![Son Commit](https://img.shields.io/github/last-commit/cyb3rkan/log-analyzer-ai?style=flat-square&color=00d9ff&labelColor=161b22)
+![Lisans](https://img.shields.io/github/license/cyb3rkan/log-analyzer-ai?style=flat-square&color=00d9ff&labelColor=161b22)
+
 </td>
 <td valign="top" width="50%">
 
@@ -120,6 +132,8 @@ n8n üzerinde olay normalizasyonu, IOC türü belirleme, tehdit istihbaratı zen
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
 ![SOAR](https://img.shields.io/badge/SOAR-161b22?style=flat-square)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+![Ortam](https://img.shields.io/badge/Ortam-Kişisel_Lab-6e40c9?style=flat-square&labelColor=161b22)
 
 </td>
 </tr>
@@ -185,34 +199,31 @@ n8n üzerinde olay normalizasyonu, IOC türü belirleme, tehdit istihbaratı zen
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge)
 
-<br>
+<br><br>
 
 ### ⚙️ Altyapı ve Otomasyon
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Poetry](https://img.shields.io/badge/Poetry-60A5FA?style=for-the-badge&logo=poetry&logoColor=white)
+![Altyapı Becerileri](https://skillicons.dev/icons?i=docker,linux,kali,git&theme=dark)
 
 <br>
+
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Poetry](https://img.shields.io/badge/Poetry-60A5FA?style=for-the-badge&logo=poetry&logoColor=white)
+
+<br><br>
 
 ### 👨‍💻 Programlama Dilleri
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Dil Becerileri](https://skillicons.dev/icons?i=py,java,cs,cpp,ts&theme=dark)
 
-<br>
+<br><br>
 
 ### 🌐 Web ve Backend
 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Backend Becerileri](https://skillicons.dev/icons?i=fastapi,nextjs,react&theme=dark)
+
+<br>
+
 ![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge)
 ![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge)
 
@@ -220,14 +231,33 @@ n8n üzerinde olay normalizasyonu, IOC türü belirleme, tehdit istihbaratı zen
 
 ---
 
+## 📈 GitHub İstatistiklerim
+
+<table>
+<tr>
+<td valign="top" width="50%">
+
+<img width="100%" src="https://github-readme-stats.vercel.app/api?username=cyb3rkan&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=8b949e&include_all_commits=true"/>
+
+</td>
+<td valign="top" width="50%">
+
+<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyb3rkan&layout=compact&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=8b949e&langs_count=8"/>
+
+</td>
+</tr>
+</table>
+
+---
+
 ## 🎯 Gelişim Hedeflerim
 
-- Microsoft Sentinel, KQL ve SOC operasyonları konusunda daha fazla uygulamalı deneyim kazanmak
-- Active Directory güvenlik olaylarını ve kimlik tabanlı saldırıları daha iyi analiz etmek
-- SIEM/SOAR otomasyon projelerini gerçek sistemlere yakın senaryolarla geliştirmek
-- Ağ cihazlarından güvenli ve yüksek erişilebilir log toplama mimarileri oluşturmak
-- Güvenli yazılım geliştirme ve API güvenliği becerilerimi ilerletmek
-- Teknik projelerimi dokümante ederek açık kaynak olarak paylaşmak
+- [ ] Microsoft Sentinel, KQL ve SOC operasyonları konusunda daha fazla uygulamalı deneyim kazanmak
+- [ ] Active Directory güvenlik olaylarını ve kimlik tabanlı saldırıları daha iyi analiz etmek
+- [ ] SIEM/SOAR otomasyon projelerini gerçek sistemlere yakın senaryolarla geliştirmek
+- [ ] Ağ cihazlarından güvenli ve yüksek erişilebilir log toplama mimarileri oluşturmak
+- [ ] Güvenli yazılım geliştirme ve API güvenliği becerilerimi ilerletmek
+- [ ] Teknik projelerimi dokümante ederek açık kaynak olarak paylaşmak
 
 ---
 
