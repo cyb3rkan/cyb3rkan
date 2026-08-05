@@ -79,18 +79,6 @@ Açık Olduğu: Staj, Junior Güvenlik Mühendisi
 </tr>
 </table>
 
-<br />
-
-# 📈 GitHub Aktivite Grafiği
-
-<div align="center">
-
-[![Aktivite Grafiği](https://github-readme-activity-graph.vercel.app/graph?username=cyb3rkan\&bg_color=0d1117\&color=00d9ff\&line=00d9ff\&point=ffffff\&area=true\&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
-<br />
-
 # 💼 Deneyim
 
 ### 🏢 Data Market Bilgi Hizmetleri A.Ş. — *Çözüm Destek Stajyeri*
