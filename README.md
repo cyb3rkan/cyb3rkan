@@ -1,16 +1,24 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0d1117,50:00d9ff,100:0d1117&text=Erkan%20%C5%9EAH%C4%B0N&fontSize=60&fontColor=00d9ff&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20%7C%20SIEM%20%7C%20SOAR%20%7C%20Threat%20Intelligence&descAlignY=58&descColor=8b949e"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0d1117,50:00d9ff,100:0d1117&text=Erkan%20%C5%9EAH%C4%B0N&fontSize=60&fontColor=00d9ff&animation=fadeIn&fontAlignY=38&desc=Security%20Engineering%20%7C%20SOC%20%7C%20Threat%20Intelligence&descAlignY=58&descColor=8b949e" alt="Erkan Şahin" />
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono\&weight=700\&size=20\&duration=3500\&pause=800\&color=00D9FF\&center=true\&vCenter=true\&width=900\&lines=Bilgisayar+M%C3%BChendisli%C4%9Fi+%C3%96%C4%9Frencisi;Siber+G%C3%BCvenlik+Merakl%C4%B1s%C4%B1;SIEM+%7C+SOAR+%7C+Tehdit+%C4%B0stihbarat%C4%B1;G%C3%BCvenlik+Otomasyonu;Microsoft+Sentinel+%C3%96%C4%9Frencisi;Her+Zaman+Yeni+%C5%9Eeyler+%C3%96%C4%9Freniyor)](https://git.io/typing-svg)
-
-<br />
-
-<a href="https://github.com/cyb3rkan"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a> <a href="https://www.linkedin.com/in/erkansahin23/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <img src="https://img.shields.io/badge/Staj_%7C_Junior_SecEng_Aray%C4%B1%C5%9F%C4%B1nda-00d9ff?style=for-the-badge"/>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=20&duration=3200&pause=900&color=00D9FF&center=true&vCenter=true&width=900&lines=Bilgisayar+M%C3%BChendisli%C4%9Fi+4.+S%C4%B1n%C4%B1f+%C3%96%C4%9Frencisi;Security+Engineering+%7C+SOC;Threat+Intelligence+%7C+Detection+Engineering;SIEM+%7C+SOAR+%7C+Security+Automation;Secure+Software+%26+Backend+Development)](https://git.io/typing-svg)
 
 <br />
 
-<img src="https://komarev.com/ghpvc/?username=cyb3rkan&style=for-the-badge&color=00d9ff&label=PROFIL+GORUNTULEME"/>
+<a href="https://github.com/cyb3rkan">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+<a href="https://www.linkedin.com/in/erkansahin23/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://cyb3rkan.github.io/">
+  <img src="https://img.shields.io/badge/Portfolio-00D9FF?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Portfolio" />
+</a>
+
+<br /><br />
+
+<img src="https://komarev.com/ghpvc/?username=cyb3rkan&style=flat-square&color=00d9ff&label=PROFİL+GÖRÜNTÜLEME" alt="Profil görüntüleme sayısı" />
 
 </div>
 
@@ -18,28 +26,37 @@
 
 # 👋 Hakkımda
 
-Bilgisayar Mühendisliği öğrencisiyim; **Siber Güvenlik**, **Tehdit İstihbaratı**, **SIEM/SOAR**, **Güvenlik Otomasyonu** ve **Güvenli Yazılım Geliştirme** konularına büyük ilgi duyuyorum.
+İskenderun Teknik Üniversitesi **Bilgisayar Mühendisliği 4. sınıf öğrencisiyim**. Çalışmalarımı **Security Engineering / SOC**, **Threat Intelligence**, **Detection Engineering**, **SIEM/SOAR**, **Security Automation** ve **güvenli yazılım/backend geliştirme** alanlarında yoğunlaştırıyorum.
 
-Sıkıcı SOC görevlerini otomatikleştiren, IOC'leri zenginleştiren, logları analiz eden ve analistlerin olayları daha hızlı incelemesine yardımcı olan savunma odaklı güvenlik araçları geliştiriyorum.
+IOC zenginleştirme ve korelasyon, güvenlik loglarının analizi, risk önceliklendirme ve tekrarlayan SOC süreçlerinin otomasyonu üzerine savunma odaklı araçlar geliştiriyorum. Güvenlik yaklaşımını yazılım mühendisliği pratikleriyle birleştirmeye, projelerimde anlaşılır dokümantasyon ve tekrarlanabilir kurulum sunmaya önem veriyorum.
 
-🎯 **Hedefim:** Güvenlik Mühendisi / SOC Mühendisi olmak ve yazılım mühendisliği becerilerimi sürekli geliştirmek.
+Siber güvenliğin yanında sistem yönetimi, ağ teknolojileri, sanallaştırma, teknik problem çözme ve yazılım geliştirme temelleri üzerine de kendimi geliştiriyorum.
+
+🎯 **Kariyer hedefim:** Güvenlik Mühendisi / SOC Mühendisi olarak çalışmak ve güvenli yazılım geliştirme becerilerimle güvenlik operasyonlarına katkı sağlamak.
 
 <br />
 
 ```yaml
-İsim:      Erkan Şahin
-Konum:     Türkiye
-Eğitim:    Fırat Üniversitesi — Bilgisayar Mühendisliği (4. Sınıf)
-Diller:    Türkçe, İngilizce
-Açık Olduğu: Staj, Junior Güvenlik Mühendisi
+İsim:       Erkan Şahin
+Konum:      Türkiye
+Eğitim:     İskenderun Teknik Üniversitesi
+Bölüm:      Bilgisayar Mühendisliği — 4. Sınıf
+Diller:     Türkçe, İngilizce
 
-İlgi Alanları:
-  - Tehdit İstihbaratı      - Algılama Mühendisliği
-  - SIEM / SOAR              - Güvenlik Otomasyonu
+Odak Alanları:
+  - Security Engineering / SOC
+  - Threat Intelligence
+  - Detection Engineering
+  - SIEM / SOAR
+  - Security Automation
+  - Secure Software & Backend Development
 
-Şu Anda Öğreniyor:
-  - Microsoft Sentinel & KQL  - Active Directory Güvenliği
-  - OPNsense                  - Docker & Algılama Kuralları
+Teknik Odak:
+  - Microsoft Sentinel & KQL
+  - Python & FastAPI
+  - Docker & REST API
+  - Log Analysis & IOC Enrichment
+  - Network Log Collection
 ```
 
 <br />
@@ -52,32 +69,42 @@ Açık Olduğu: Staj, Junior Güvenlik Mühendisi
 
 ### 🛡️
 
-**Microsoft Sentinel** <sub>SIEM Operasyonları Öğreniyorum</sub>
+**SIEM & SOC**
+
+<sub>Microsoft Sentinel, KQL ve güvenlik olaylarının analizi</sub>
+
+</td>
+<td align="center" width="25%">
+
+### 🔎
+
+**Threat Intelligence**
+
+<sub>IOC zenginleştirme, korelasyon ve risk önceliklendirme</sub>
 
 </td>
 <td align="center" width="25%">
 
 ### ⚙️
 
-**Güvenlik Otomasyonu** <sub>Otomasyon iş akışları kuruyorum</sub>
+**Security Automation**
 
-</td>
-<td align="center" width="25%">
-
-### 🌐
-
-**Tehdit İstihbaratı** <sub>IOC Zenginleştirme</sub>
+<sub>Tekrarlayan SOC süreçleri için otomasyon iş akışları</sub>
 
 </td>
 <td align="center" width="25%">
 
 ### 💻
 
-**Güvenli Geliştirme** <sub>Python • FastAPI</sub>
+**Secure Development**
+
+<sub>Python, FastAPI, REST API ve güvenli backend geliştirme</sub>
 
 </td>
 </tr>
 </table>
+
+<br />
 
 # 💼 Deneyim
 
@@ -85,15 +112,18 @@ Açık Olduğu: Staj, Junior Güvenlik Mühendisi
 
 **Temmuz 2026 — Ağustos 2026**
 
-Stajım süresince kurumsal güvenlik teknolojileri ve SOC operasyonları üzerine çalıştım:
+Staj süresince kurumsal güvenlik teknolojileri, log yönetimi ve SOC süreçleri üzerine uygulamalı çalışmalar gerçekleştirdim:
 
-| Alan      | Yaptıklarım                                                                               |
-| --------- | ----------------------------------------------------------------------------------------- |
-| SIEM      | Microsoft Sentinel araştırma ve laboratuvar çalışmaları, Security Copilot değerlendirmesi |
-| Algılama  | Active Directory güvenlik olay analizi, Windows Olay Günlüğü analizi                      |
-| Altyapı   | OPNsense log toplama, VirtualMetric, Docker tabanlı güvenlik laboratuvarı, Linux yönetimi |
-| Otomasyon | n8n güvenlik otomasyonu, IOC zenginleştirme iş akışları                                   |
-| Sunum     | Teknik dokümantasyon, sunum hazırlığı                                                     |
+| Alan | Gerçekleştirilen çalışmalar |
+|---|---|
+| **SIEM / SOC** | Microsoft Sentinel araştırmaları ve laboratuvar çalışmaları |
+| **Security Copilot** | Kullanım senaryolarının incelenmesi ve değerlendirilmesi |
+| **Detection** | Active Directory güvenlik olayları ve Windows Event Log analizi |
+| **Network Security** | OPNsense üzerinden ağ loglarının toplanması ve Syslog akışlarının incelenmesi |
+| **Monitoring** | VirtualMetric ile izleme ve altyapı görünürlüğü çalışmaları |
+| **Automation** | n8n ile güvenlik otomasyonu ve IOC zenginleştirme iş akışları |
+| **Infrastructure** | Docker tabanlı laboratuvar ortamları ve temel Linux yönetimi |
+| **Documentation** | Teknik dokümantasyon ve sunum hazırlama |
 
 <br />
 
@@ -105,27 +135,28 @@ Stajım süresince kurumsal güvenlik teknolojileri ve SOC operasyonları üzeri
 
 ### 🔍 [IOC Enricher Agent](https://github.com/cyb3rkan/ioc-enricher-agent)
 
-Yapay zeka destekli Tehdit İstihbaratı Platformu.
+Güvenlik analistleri için geliştirilen çok kaynaklı IOC zenginleştirme aracı. Göstergeleri toplar, normalize eder ve analize yardımcı olacak güvenlik bağlamı üretir.
 
-**Özellikler:** IOC Zenginleştirme • Çok Kaynaklı İstihbarat • Risk Skorlama • MITRE ATT\&CK Eşleştirme • STIX Dışa Aktarım • Kanıta Dayalı Analiz
+**Odak noktaları:** IOC enrichment • Çok kaynaklı veri • Risk değerlendirmesi • Analist odaklı çıktı
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square\&logo=fastapi\&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square\&logo=docker\&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square\&logo=nextdotjs\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Threat Intelligence](https://img.shields.io/badge/Threat_Intelligence-6E40C9?style=flat-square)
 
 </td>
 <td width="50%" valign="top">
 
-### 🧠 [Threat Intel Correlator](https://github.com/cyb3rkan/Threat-Intel-Correlator)
+### 🧠 [Threat Intel Correlator](https://github.com/cyb3rkan/threat-intel-correlator)
 
-Tehdit İstihbaratı ve SOC araştırmaları için korelasyon platformu.
+IOC korelasyonu, tehdit önceliklendirme ve SOC araştırmalarını destekleyen threat intelligence platformu.
 
-**Özellikler:** IOC Korelasyonu • Tehdit Önceliklendirme • Risk Değerlendirme • Araştırma Desteği • Analiste Uygun Raporlar
+**Odak noktaları:** IOC correlation • Risk scoring • Araştırma desteği • Raporlama
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square\&logo=fastapi\&logoColor=white)
-![Threat Intelligence](https://img.shields.io/badge/Threat_Intelligence-161b22?style=flat-square)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 </td>
 </tr>
@@ -134,118 +165,28 @@ Tehdit İstihbaratı ve SOC araştırmaları için korelasyon platformu.
 
 ### 📊 [Log Analyzer AI](https://github.com/cyb3rkan/log-analyzer-ai)
 
-Yapay zeka destekli güvenlik log analizi platformu.
+Güvenlik loglarını ayrıştırmak, şüpheli olayları belirlemek, risk skoru oluşturmak ve inceleme önerileri sunmak için geliştirilen analiz uygulaması.
 
-**Özellikler:** Log Ayrıştırma • Tehdit Algılama • AI Destekli Analiz • Risk Skorlama • Öneriler
+**Odak noktaları:** Log parsing • Detection • Risk scoring • Investigation support
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
-![AI](https://img.shields.io/badge/AI-Assisted-6e40c9?style=flat-square)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square\&logo=fastapi\&logoColor=white)
-
-</td>
-<td width="50%" valign="top">
-
-### 🛡️ SIEM / SOAR Güvenlik Laboratuvarı
-
-SOC otomasyonu için kişisel laboratuvarım.
-
-**İçerir:** Microsoft Sentinel • Security Copilot • n8n İş Akışları • OPNsense • Syslog Toplama • Active Directory • IOC Otomasyonu
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square\&logo=docker\&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square\&logo=linux\&logoColor=black)
-![Windows](https://img.shields.io/badge/Windows-0078D4?style=flat-square\&logo=windows\&logoColor=white)
-
-</td>
-</tr>
-</table>
-
-<sub>**Öne Çıkanlar:** IOC Enricher Agent → çok kaynaklı IOC zenginleştirme · Threat Intel Correlator → göstergeleri güvenlik olaylarıyla korelasyon · Log Analyzer AI → AI destekli log analizi · SIEM Laboratuvarı → Sentinel laboratuvarı · Algılama Kuralları → algılama mühendisliği deneyleri</sub>
-
-<br />
-
-# 🧪 Ev Güvenlik Laboratuvarım
-
-| Alan               | Teknolojiler             |
-| ------------------ | ------------------------ |
-| İşletim Sistemleri | Windows 11, Ubuntu Linux |
-| Sanallaştırma      | Docker                   |
-| Güvenlik Duvarı    | OPNsense                 |
-| SIEM               | Microsoft Sentinel       |
-| Otomasyon          | n8n                      |
-| Log Toplama        | Syslog                   |
-| Kimlik             | Active Directory         |
-| İzleme             | VirtualMetric            |
-| Geliştirme         | Python, FastAPI          |
-| Versiyon Kontrolü  | Git                      |
-
-<br />
-
-# 🛠️ Teknoloji Yığınım
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,cs,cpp,java,fastapi,docker,linux,azure,git&theme=dark"/>
-
-</div>
-
-<div align="center">
-
-![Microsoft Sentinel](https://img.shields.io/badge/Microsoft_Sentinel-0078D4?style=for-the-badge\&logo=microsoftazure\&logoColor=white)
-![SIEM](https://img.shields.io/badge/SIEM-161b22?style=for-the-badge)
-![SOAR](https://img.shields.io/badge/SOAR-161b22?style=for-the-badge)
-![Threat Intelligence](https://img.shields.io/badge/Threat_Intelligence-6e40c9?style=for-the-badge)
-![Active Directory](https://img.shields.io/badge/Active_Directory-0078D4?style=for-the-badge\&logo=microsoft\&logoColor=white)
-![OPNsense](https://img.shields.io/badge/OPNsense-D94F00?style=for-the-badge)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge\&logo=n8n\&logoColor=white)
-
-</div>
-
-<br />
-
-# 📚 Şu Anda Öğrendiklerim & Favori Konularım
-
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
-**📚 Şu Anda Öğreniyorum**
-
-* Microsoft Sentinel & KQL
-
-* Algılama Mühendisliği
-
-* Tehdit Avcılığı
-
-* Olay Müdahalesi
-
-* Güvenlik Otomasyonu
-
-* Active Directory
-
-* SOC İş Akışları
-
-* API Güvenliği & Docker Güvenliği
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Log Analysis](https://img.shields.io/badge/Log_Analysis-161B22?style=flat-square)
+![Security Automation](https://img.shields.io/badge/Security_Automation-EA4B71?style=flat-square)
 
 </td>
 <td width="50%" valign="top">
 
-**❤️ Favori Güvenlik Konularım**
+### ⚙️ [SOAR IOC Enrichment Playbook](https://github.com/cyb3rkan/soar-ioc-enrichment-playbook)
 
-* Tehdit İstihbaratı
+IOC zenginleştirme sürecini otomatikleştirmek ve SOAR yaklaşımını uygulamalı olarak incelemek için geliştirilen playbook çalışması.
 
-* Algılama Mühendisliği
+**Odak noktaları:** IOC enrichment • SOAR • PowerShell • Workflow automation
 
-* Tehdit Avcılığı
-
-* Dijital Adli Bilişim
-
-* Olay Müdahalesi
-
-* API Güvenliği
-
-* Güvenli Kodlama
-
-* Ağ Güvenliği
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
+![SOAR](https://img.shields.io/badge/SOAR-161B22?style=flat-square)
+![Automation](https://img.shields.io/badge/Automation-EA4B71?style=flat-square)
+![Blue Team](https://img.shields.io/badge/Blue_Team-0078D4?style=flat-square)
 
 </td>
 </tr>
@@ -253,40 +194,130 @@ SOC otomasyonu için kişisel laboratuvarım.
 
 <br />
 
-# 📈 2026 Hedeflerim & Planladığım Sertifikalar
+# 🧪 Güvenlik Laboratuvarım
 
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
 
-**📈 2026 Hedeflerim**
-
-* Microsoft Sentinel öğrenme yolunu tamamlamak
-
-* KQL bilgimi geliştirmek
-
-* Kurumsal seviyede SIEM laboratuvarı kurmak
-
-* Daha fazla açık kaynaklı güvenlik aracı yayınlamak
-
-* Algılama Mühendisliği öğrenmek
-
-* Olay Müdahalesi bilgimi geliştirmek
-
-* Siber güvenlik projelerine katkıda bulunmak
+| Alan | Teknolojiler |
+|---|---|
+| **SIEM** | Microsoft Sentinel |
+| **Log Collection** | Syslog, Windows Event Logs |
+| **Network Security** | OPNsense |
+| **Identity** | Active Directory |
+| **Monitoring** | VirtualMetric |
 
 </td>
 <td width="50%" valign="top">
 
-**📜 Planladığım Sertifikalar**
+| Alan | Teknolojiler |
+|---|---|
+| **Automation** | n8n, PowerShell |
+| **Development** | Python, FastAPI |
+| **Containerization** | Docker |
+| **Operating Systems** | Windows, Linux |
+| **Version Control** | Git, GitHub |
 
-* SC-200 — Microsoft Security Operations Analyst
+</td>
+</tr>
+</table>
 
-* AZ-500 — Microsoft Azure Security Engineer
+Laboratuvar çalışmalarımda ağ ve sistem loglarının toplanması, Sentinel üzerinde incelenmesi, güvenlik olaylarının analiz edilmesi ve IOC zenginleştirme süreçlerinin otomatikleştirilmesi üzerine çalışıyorum.
 
-* CompTIA Security+
+<br />
 
-* PNPT
+# 🛠️ Teknoloji & Araçlar
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,fastapi,docker,linux,azure,git,github,powershell,cs,cpp,java&theme=dark" alt="Teknoloji ikonları" />
+
+<br /><br />
+
+![Microsoft Sentinel](https://img.shields.io/badge/Microsoft_Sentinel-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![SIEM](https://img.shields.io/badge/SIEM-161B22?style=for-the-badge)
+![SOAR](https://img.shields.io/badge/SOAR-161B22?style=for-the-badge)
+![Threat Intelligence](https://img.shields.io/badge/Threat_Intelligence-6E40C9?style=for-the-badge)
+![Detection Engineering](https://img.shields.io/badge/Detection_Engineering-00A4EF?style=for-the-badge)
+![Security Automation](https://img.shields.io/badge/Security_Automation-EA4B71?style=for-the-badge)
+
+<br />
+
+![Active Directory](https://img.shields.io/badge/Active_Directory-0078D4?style=flat-square&logo=microsoft&logoColor=white)
+![OPNsense](https://img.shields.io/badge/OPNsense-D94F00?style=flat-square)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+![VirtualMetric](https://img.shields.io/badge/VirtualMetric-161B22?style=flat-square)
+![KQL](https://img.shields.io/badge/KQL-0078D4?style=flat-square)
+![REST API](https://img.shields.io/badge/REST_API-009688?style=flat-square)
+
+</div>
+
+<br />
+
+# 🎓 Programlar & Tamamlanan Eğitimler
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+### 🛡️ Siber Güvenlik
+
+- **Türkiye Siber Vatan Programı — 2026 Dönemi**
+  - T.C. Batı Karadeniz Kalkınma Ajansı
+- **Siber Güvenliğe Giriş**
+  - Turkcell
+- CTF ve uygulamalı siber güvenlik çalışmaları
+- SOC, threat intelligence ve güvenlik otomasyonu üzerine kişisel laboratuvar çalışmaları
+
+</td>
+<td width="50%" valign="top">
+
+### 💻 BT & Yazılım Temelleri
+
+- **Python, Java ve C# Eğitimi**
+  - Udemy
+- **CompTIA A+ Core 1 Eğitimi**
+  - Donanım, ağ, mobil cihazlar ve sanallaştırma
+- **CompTIA A+ Core 2 Eğitimi**
+  - İşletim sistemleri, güvenlik temelleri ve sorun giderme
+
+</td>
+</tr>
+</table>
+
+> Bu bölümde yer alan Udemy içerikleri, ilgili sınavların resmî endüstri sertifikaları değil; tamamlanan eğitim programlarıdır.
+
+<br />
+
+# 📚 Geliştirdiğim Alanlar
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+### 📖 Teknik Gelişim
+
+- Microsoft Sentinel ve KQL
+- Detection engineering
+- Threat hunting
+- Güvenlik olaylarının analizi
+- SOC iş akışları
+- API ve Docker güvenliği
+- Güvenli backend mimarisi
+
+</td>
+<td width="50%" valign="top">
+
+### ❤️ İlgi Alanlarım
+
+- Threat intelligence
+- SIEM/SOAR
+- Security automation
+- Log analysis
+- Network security
+- Secure coding
+- Incident response
 
 </td>
 </tr>
@@ -296,40 +327,40 @@ SOC otomasyonu için kişisel laboratuvarım.
 
 # 🌍 Açık Kaynak
 
-Savunmacıların tekrarlayan görevleri otomatikleştirmesine yardımcı olan projeler geliştirmekten keyif alıyorum. Katkıda bulunmak istediğim alanlar:
+Savunma ekiplerinin tekrarlayan işlerini azaltan, güvenlik verilerinin analizini kolaylaştıran ve araştırma süreçlerini destekleyen araçlar geliştirmekten keyif alıyorum.
 
-`Tehdit İstihbaratı` `Algılama Mühendisliği` `Güvenlik Otomasyonu` `Mavi Takım Araçları` `Log Analizi` `API Güvenliği` `Güvenli Backend Geliştirme` `Python Kütüphaneleri`
+Projelerimde anlaşılır dokümantasyon, güvenli varsayımlar, tekrarlanabilir kurulum ve analist odaklı çıktılar sunmayı hedefliyorum.
+
+`Threat Intelligence` `Detection Engineering` `Security Automation` `Blue Team Tools` `Log Analysis` `API Security` `Secure Backend Development`
 
 <br />
 
 <div align="center">
 
-### 🎯 Kariyer Hedefim
+### 🎯 Kariyer Odağım
 
-*SIEM, SOAR, Tehdit İstihbaratı, Algılama Mühendisliği ve Güvenlik Otomasyonu alanlarında uzmanlaşan bir Güvenlik Mühendisi olmak ve açık kaynaklı siber güvenlik projelerine katkıda bulunmak.*
-
-</div>
+*SIEM/SOAR, threat intelligence, detection engineering ve security automation alanlarında gelişen; yazılım mühendisliği becerileriyle güvenlik operasyonlarına katkı sağlayan bir Güvenlik Mühendisi olmak.*
 
 <br />
-
-***
-
-<div align="center">
 
 ### 📫 Benimle İletişime Geçin
 
-<a href="https://www.linkedin.com/in/erkansahin23"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="https://github.com/cyb3rkan"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/erkansahin23/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://github.com/cyb3rkan">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+<a href="https://cyb3rkan.github.io/">
+  <img src="https://img.shields.io/badge/Portfolio-00D9FF?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Portfolio" />
+</a>
+
+<br /><br />
+
+> **İnşa ederek öğren. Test ederek geliştir. Güvenliği tasarımın bir parçası yap.**
 
 <br />
 
-> **"İnşa Ederek Öğren. Test Ederek Geliş. Tasarlayarak Güvenlik Sağla."**
->
-> **Öğren • İnşa Et • Kır • Anla • Güvenlik Sağla**
-
-<br />
-
-💙 Profilimi ziyaret ettiğiniz için teşekkürler.
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0d1117,50:00d9ff,100:0d1117"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0d1117,50:00d9ff,100:0d1117" alt="Footer" />
 
 </div>
