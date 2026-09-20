@@ -26,7 +26,9 @@
 
 # 👋 Hakkımda
 
-İskenderun Teknik Üniversitesi **Bilgisayar Mühendisliği 4. sınıf öğrencisiyim**. Çalışmalarımı **Security Engineering / SOC**, **Threat Intelligence**, **Detection Engineering**, **SIEM/SOAR**, **Security Automation** ve **güvenli yazılım/backend geliştirme** alanlarında yoğunlaştırıyorum.
+Bilgisayar Mühendisliği eğitimimin ilk üç yılını **Fırat Üniversitesi’nde** tamamladıktan sonra eğitimime **İskenderun Teknik Üniversitesi’nde 4. sınıf öğrencisi olarak** devam ediyorum.
+
+Akademik ve teknik gelişimimi **Security Engineering / SOC**, **Threat Intelligence**, **Detection Engineering**, **SIEM/SOAR**, **Security Automation** ve **güvenli yazılım/backend geliştirme** alanlarına odaklı olarak sürdürüyorum.
 
 IOC zenginleştirme ve korelasyon, güvenlik loglarının analizi, risk önceliklendirme ve tekrarlayan SOC süreçlerinin otomasyonu üzerine savunma odaklı araçlar geliştiriyorum. Güvenlik yaklaşımını yazılım mühendisliği pratikleriyle birleştirmeye, projelerimde anlaşılır dokümantasyon ve tekrarlanabilir kurulum sunmaya önem veriyorum.
 
@@ -39,9 +41,13 @@ Siber güvenliğin yanında sistem yönetimi, ağ teknolojileri, sanallaştırma
 ```yaml
 İsim:       Erkan Şahin
 Konum:      Türkiye
-Eğitim:     İskenderun Teknik Üniversitesi
-Bölüm:      Bilgisayar Mühendisliği — 4. Sınıf
+Bölüm:      Bilgisayar Mühendisliği
+Sınıf:      4. Sınıf
 Diller:     Türkçe, İngilizce
+
+Eğitim:
+  Mevcut:   İskenderun Teknik Üniversitesi — Bilgisayar Mühendisliği
+  Önceki:   Fırat Üniversitesi — Bilgisayar Mühendisliği (İlk 3 Yıl)
 
 Odak Alanları:
   - Security Engineering / SOC
@@ -58,6 +64,37 @@ Teknik Odak:
   - Log Analysis & IOC Enrichment
   - Network Log Collection
 ```
+
+<br />
+
+# 🎓 Eğitim
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+### 🏫 İskenderun Teknik Üniversitesi
+
+**Bilgisayar Mühendisliği**
+
+`4. Sınıf` · `Devam Ediyor`
+
+Bilgisayar Mühendisliği lisans eğitimime İskenderun Teknik Üniversitesi’nde devam ediyorum. Akademik çalışmalarımı siber güvenlik, güvenli yazılım geliştirme ve bilgisayar mühendisliği alanlarında sürdürüyorum.
+
+</td>
+<td width="50%" valign="top">
+
+### 🏫 Fırat Üniversitesi
+
+**Bilgisayar Mühendisliği**
+
+`İlk 3 Yıl`
+
+Bilgisayar Mühendisliği eğitimimin ilk üç yılını Fırat Üniversitesi’nde tamamladım. Bu süreçte yazılım geliştirme, algoritmalar, bilgisayar sistemleri ve temel mühendislik alanlarında akademik altyapı edindim.
+
+</td>
+</tr>
+</table>
 
 <br />
 
@@ -223,7 +260,7 @@ IOC zenginleştirme sürecini otomatikleştirmek ve SOAR yaklaşımını uygulam
 </tr>
 </table>
 
-Laboratuvar çalışmalarımda ağ ve sistem loglarının toplanması, Sentinel üzerinde incelenmesi, güvenlik olaylarının analiz edilmesi ve IOC zenginleştirme süreçlerinin otomatikleştirilmesi üzerine çalışıyorum.
+Laboratuvar çalışmalarımda ağ ve sistem loglarının toplanması, Microsoft Sentinel üzerinde incelenmesi, güvenlik olaylarının analiz edilmesi ve IOC zenginleştirme süreçlerinin otomatikleştirilmesi üzerine çalışıyorum.
 
 <br />
 
